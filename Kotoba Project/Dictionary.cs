@@ -1894,6 +1894,594 @@ namespace Kotoba_Project
                 MT.dictionaryInformation5[languagueSettingsUpdater] +
                 "\n 1. Skillful, Skilled, Proficient, Good (at something), Adept, Clever"}},
 
+
+{"授業", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "jyugyou" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "じゅぎょう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Lesson, Class work, Class (Time)"}},
+{"十", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "jyuu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "じゅう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Number 10"}},
+{"鞄", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaban" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かばん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Bag, Satchel, Briefcase, Basket"}},
+{"花瓶", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kabin" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かびん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. (Flower) Vase"}},
+{"角", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kado" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かど" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Corner, Angle"}},
+{"帰る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaeru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かえる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To go back, To return back" +
+    "\n \n 2. To return home"}},
+{"返す", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaesu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かえす" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To return something"}},
+{"鍵", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kagi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かぎ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Key, Key (to a problem, success, etc), Clue" +
+    "\n \n 2. Lock"}},
+{"階段", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaidan" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かいだん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Stairs, Stairway, Staircase"}},
+{"買い物", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaimono" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かいもの" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Shopping, Purchased goods"}},
+
+{"会社", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaisha" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かいしゃ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Company, Corporation"}},
+{"掛かる", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kakaru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かかる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To take (a resource, e.g time or money)"}},
+{"掛ける", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kakeru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かける" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To hang up (e.g a coat, a picture on the wall, etc), To let hang(ing), To raise (e.g a flag)" +
+    "\n \n 2. To make (a call)" +
+    "\n \n 3. To multiply (arithmetic operations)"}},
+{"書く", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To write, To compose, To pen, To draw [See also 描く]"}},
+{"カメラ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kamera" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かめら" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Camera"}},
+{"紙", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kami" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かみ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Paper"}},
+{"漢字", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kanji" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かんじ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Kanji, Chinese characters"}},
+{"カップ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kappu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かっぷ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Cup"}},
+{"体", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "karada" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "からだ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "身体 [からだ]" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Body" +
+    "\n \n 2. Dead body"}},
+{"辛い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "karai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "からい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "辛い [つらい]" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Spicy, Hot" +
+    "\n \n 2. Salty" +
+    "\n \n 3. [Only applies to つらい] Painful, Bitter, Difficult (Emotionally), Tough"}},
+
+{"カレー", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "karee" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かれー" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Curry"}},
+{"カレンダー", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "karendaa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かれんだー" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Calendar"}},
+{"借りる", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kariru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かりる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To borrow, To have a loan" +
+    "\n \n 2. To rent, To hire"}},
+{"傘", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kasa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かさ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Umbrella, Parasol"}},
+{"貸す", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kasu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かす" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To lend, To loan"}},
+{"方", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kata" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かた" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Way of doing something" +
+    "\n \n 2. Direction, Way"}},
+{"家庭", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "katei" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かてい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Household"}},
+{"買う", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kau" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To buy, To purchase"}},
+{"川", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kawa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かわ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. River, Stream"}},
+{"可愛い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kawaii" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かわいい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Adorable, Cute, charming, lovely, Pretty" +
+    "\n \n Innocent, Childlike, Childish, Lovable, Little, Tiny"}},
+
+{"火曜日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kayoubi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かようび" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Tuesday, The second day of the week"}},
+{"風", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaze" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かぜ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Wind,"}},
+
+{"風邪", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kaze" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かぜ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. A cold, Ague, Inflammatory respiratory system illness (in general)"}},
+
+{"家族", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kazoku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "かぞく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Family, Member of family"}},
+{"警官", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "keikan" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "けいかん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Policeman, Police officer"}},
+{"結婚", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kekkon" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "けっこん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Marriage" +
+    "\n \n 2. (Used as 結婚する) To marry"}},
+{"結構", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kekkon" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "けっこん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Splendid, Enough"}},
+{"今朝", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kesa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "けさ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This morning"}},
+{"消す", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kesu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "けす" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To erase, To rub off, To cross out, To delete" +
+    "\n \n 2. To turn off (A light, TV, heater, etc), To switch off" +
+    "\n \n 3. To extinguish (a fire, candle, etc), To put out"}},
+{"木", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "ki" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "き" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Tree, Wood, Timber"}},
+{"消える", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kieru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きえる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To disappear"}},
+{"黄色い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiiro" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きいろ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. (Color) Yellow"}},
+
+{"聞く", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To hear, To listen (To music)" +
+    "\n \n 2. To ask"}},
+{"昨日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kinou" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きのう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Yesterday, The day before today"}},
+{"金曜日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kin'youbi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きんようび" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Friday, The fifth day of the week"}},
+{"切符", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kippu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きっぷ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Ticket"}},
+{"嫌い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kirai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きらい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To hate, To detest, To dislike, Disagreeable"}},
+{"綺麗", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kirei" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きれい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Clean, Clear, Pure, Tidy, Neat" +
+    "\n \n 2. Pretty, Lovely, Beautiful"}},
+{"キログラム", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiroguramu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きろぐらむ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Kilogram, KG"}},
+{"キロメートル", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiromeetoru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きろめーとる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Kilometer, KM"}},
+{"切る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To cut, To cut through" +
+    "\n \n 2. To perform (Surgery)" +
+    "\n \n 3. To turn off (e.g the light)" +
+    "\n \n 4. To terminate (e.g a conversation), To hang up (the phone), To disconnect (from a call)."}},
+{"着る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kiru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To wear (From the shoulders down), To put on" +
+    "\n \n 2. To take (the blame, responsability), To bear"}},
+
+{"喫茶店", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kissaten" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きっさてん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Coffee shop, tearoom, (a) Cafe"}},
+{"北", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kita" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きた" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. North, N"}},
+{"汚い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kitanai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きたない" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Dirty, Unclean, Indecent (Language, etc), Vulgar" +
+    "\n \n 2. Disordered, Messy, Untidy, Poor"}},
+{"切手", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kitte" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きって" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Stamp (postage), Merchandise certificate"}},
+{"こっち", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kocchi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こっち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This person, This way" +
+    "\n \n 2. Here"}},
+{"こちら", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kochira" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こちら" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This direction, This way"}},
+{"子供", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kodomo" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こども" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Child" +
+    "\n \n 2. Childish"}},
+{"声", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "koe" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こえ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Voice" +
+    "\n \n 2. Singing (of a bird), Chirping (of an insect)"}},
+{"ここ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "koko" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ここ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Here"}},
+{"九日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kokonoka" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ここのか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Nine days, The nineth day of the month"}},
+
+{"九つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kokonotsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ここのつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Nine things"}},
+{"困る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "komaru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こまる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To be troubled"}},
+{"今晩", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "konban" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こんばん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Tonight, This evening"}},
+{"今月", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kongetsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こんげつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This month, The month one is currently on"}},
+{"こんな", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "konna" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こんな" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Such, Like this"}},
+{"この", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kono" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "この" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This... (followed by a noun)"}},
+{"今週", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "konshuu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こんしゅう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This week"}},
+{"コーヒー", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "koohii" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "コーヒー" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Coffee"}},
+{"コート", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kooto" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "コート" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Coat"}},
+{"コピー", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kopi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "コピー" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Copy, Photocopy"}},
+
+{"コップ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "koppu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "コップ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Cup (Drinking vessel, Measure, Brassiere, Prize, etc)"}},
+{"これ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kore" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "これ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This (one)"}},
+{"答える", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kotaeru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こたえる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To answer, To reply"}},
+{"言葉", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kotoba" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ことば" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Language, Dialect" +
+    "\n \n Word, Phrase, Expression, Term"}},
+{"今年", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kotoshi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ことし" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. This year"}},
+{"交番", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kouban" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こうばん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Police box"}},
+{"紅茶", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "koucha" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こうちゃ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Black tea"}}
+
             };
         }
     }
