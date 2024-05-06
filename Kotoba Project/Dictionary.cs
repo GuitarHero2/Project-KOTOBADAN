@@ -922,7 +922,7 @@ namespace Kotoba_Project
                 }},
 
                 {"フィルム", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "firumu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふぃるむ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -930,7 +930,7 @@ namespace Kotoba_Project
                  "\n 1. Film"}},
 
                 {"フォーク", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "fooku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふぉーく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -938,7 +938,7 @@ namespace Kotoba_Project
                  "\n 1. Fork"}},
 
                 {"吹く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "fuku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -946,7 +946,7 @@ namespace Kotoba_Project
                  "\n 1. To blow (of the wind)"}},
 
                 {"服", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "fuku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -954,7 +954,7 @@ namespace Kotoba_Project
                  "\n 1. Clothes"}},
 
                 {"降る", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "furu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -962,7 +962,7 @@ namespace Kotoba_Project
                  "\n 1. To rain, To fall (from the sky)"}},
 
                 {"古い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "furui" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふるい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -970,7 +970,7 @@ namespace Kotoba_Project
                  "\n 1. Old (for things)"}},
 
                 {"二人", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "futari" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふたり" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -978,7 +978,7 @@ namespace Kotoba_Project
                  "\n 1. Two people, Together (with you)"}},
 
                 {"二つ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "futatsu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふたつ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -986,7 +986,7 @@ namespace Kotoba_Project
                  "\n 1. Two (things)"}},
 
                 {"太い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "futoi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふとい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -994,7 +994,7 @@ namespace Kotoba_Project
                  "\n 1. Thick, Fat"}},
 
                 {"二日", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "futsuka" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふつか" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1002,7 +1002,7 @@ namespace Kotoba_Project
                  "\n 1. Two days, The second day of the month"}},
 
                 {"封筒", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "fuutou" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふうとう" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1010,7 +1010,7 @@ namespace Kotoba_Project
                  "\n 1. Envelope"}},
 
                 {"冬", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "fuyu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ふゆ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1018,7 +1018,7 @@ namespace Kotoba_Project
                  "\n 1. Winter"}},
 
                 {"外国", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gaikoku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "がいこく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1026,7 +1026,7 @@ namespace Kotoba_Project
                  "\n 1. Foreign Country"}},
 
                 {"外国人", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gaikokujin" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "がいこくじん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1034,7 +1034,7 @@ namespace Kotoba_Project
                  "\n 1. Foreigner, Foreign citizen, Foreign national, Non-Japanese person"}},
 
                 {"学校", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gakkou" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "がっこう" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1042,7 +1042,7 @@ namespace Kotoba_Project
                  "\n 1. School"}},
 
                 {"学生", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gakusei" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "がくせい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1050,7 +1050,7 @@ namespace Kotoba_Project
                  "\n 1. Student"}},
 
                 {"玄関", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "genkan" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "げんかん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1058,7 +1058,7 @@ namespace Kotoba_Project
                  "\n 1. Entrance"}},
 
                 {"元気", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "genki" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "げんき" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1066,7 +1066,7 @@ namespace Kotoba_Project
                  "\n 1. Lively, full of spirit, energetic, healthy"}},
 
                 {"月曜日", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "getsuyoubi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "げつようび" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1074,7 +1074,7 @@ namespace Kotoba_Project
                  "\n 1. Monday, The day of the moon"}},
 
                 {"銀行", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ginkou" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ぎんこう" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1082,7 +1082,7 @@ namespace Kotoba_Project
                  "\n 1. Bank"}},
 
                 {"ギター", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gita-" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ギター" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1090,7 +1090,7 @@ namespace Kotoba_Project
                  "\n 1. Guitar"}},
                  
                 {"五", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "go" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ご" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1098,7 +1098,7 @@ namespace Kotoba_Project
                  "\n 1. Five, Number five"}},
 
                 {"午後", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gogo" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ごご" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1106,7 +1106,7 @@ namespace Kotoba_Project
                  "\n 1. Afternoon, P.M"}},
 
                 {"ごはん", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gohan" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ごはん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "ご飯 [ごはん]" +
@@ -1114,7 +1114,7 @@ namespace Kotoba_Project
                  "\n 1. Rice, Lunch"}},
 
                 {"午前", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gozen" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ごぜん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1122,7 +1122,7 @@ namespace Kotoba_Project
                  "\n 1. Morning, A.M"}},
 
                 {"グラム", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "guramu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "グラム" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1130,7 +1130,7 @@ namespace Kotoba_Project
                  "\n 1. A gram"}},
                  
                 {"牛肉", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gyuuniku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ぎゅうにく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1138,7 +1138,7 @@ namespace Kotoba_Project
                  "\n 1. Cow meat, Beef"}},
 
                 {"牛乳", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "gyuunyuu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ぎゅうにゅう" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1146,7 +1146,7 @@ namespace Kotoba_Project
                  "\n 1. (Cow's) Milk"}},
 
                 {"歯", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ha" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "は" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1154,7 +1154,7 @@ namespace Kotoba_Project
                  "\n 1. Tooth"}},
 
                 {"八", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hachi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1162,7 +1162,7 @@ namespace Kotoba_Project
                  "\n 1. Eight, Number eight"}},
 
                 {"葉書", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hagaki" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はがき" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1170,7 +1170,7 @@ namespace Kotoba_Project
                  "\n 1. Podcast"}},
 
                 {"母", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "haha" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はは" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1178,7 +1178,7 @@ namespace Kotoba_Project
                  "\n 1. Mother"}},
 
                 {"はい", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hai" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1186,7 +1186,7 @@ namespace Kotoba_Project
                  "\n 1. Yes, That is correct"}},
 
                 {"入る", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hairu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はいる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1194,7 +1194,7 @@ namespace Kotoba_Project
                  "\n 1. To enter, To go in"}},
 
                 {"灰皿", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "haizara" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はいざら" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1202,7 +1202,7 @@ namespace Kotoba_Project
                  "\n 1. Ashtray"}},
 
                 {"始まる", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hajimaru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はじまる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1210,7 +1210,7 @@ namespace Kotoba_Project
                  "\n 1. To begin, To start"}},
 
                 {"初めて", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hajimete" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はじめて" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1218,7 +1218,7 @@ namespace Kotoba_Project
                  "\n 1. For the first time"}},
 
                 {"箱", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hako" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はこ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1226,7 +1226,7 @@ namespace Kotoba_Project
                  "\n 1. Box, Crate"}},
 
                 {"履く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "haku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1234,7 +1234,7 @@ namespace Kotoba_Project
                  "\n 1. To wear, To put on trousers"}},
 
                 {"半", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "han" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1242,7 +1242,7 @@ namespace Kotoba_Project
                  "\n 1. Half, Semi-, Half-past"}},
 
                 {"花", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hana" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はな" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1250,7 +1250,7 @@ namespace Kotoba_Project
                  "\n 1. Flower"}},
 
                 {"鼻", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hana" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はな" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1258,7 +1258,7 @@ namespace Kotoba_Project
                  "\n 1. Nose"}},
 
                 {"話", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hana" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はな" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1266,7 +1266,7 @@ namespace Kotoba_Project
                  "\n 1. Conversation, Talk, Speech, Chat"}},
 
                 {"話す", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hana" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はな" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1274,7 +1274,7 @@ namespace Kotoba_Project
                  "\n 1. To talk, To speak, To convense"}},
 
                 {"半分", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hanbun" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はんぶん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1282,7 +1282,7 @@ namespace Kotoba_Project
                  "\n 1. Half"}},
 
                 {"ハンカチ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hankachi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はんかち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1290,7 +1290,7 @@ namespace Kotoba_Project
                  "\n 1. Handkerchief"}},
 
                 {"晴れ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hare" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はれ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1298,7 +1298,7 @@ namespace Kotoba_Project
                  "\n 1. Clear weather, Sunny"}},
 
                 {"晴れる", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hareru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はれる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1306,7 +1306,7 @@ namespace Kotoba_Project
                  "\n 1. To be sunny"}},
 
                 {"貼る", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "haru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1314,7 +1314,7 @@ namespace Kotoba_Project
                  "\n 1. To stick, To paste"}},
 
                 {"春", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "haru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1322,7 +1322,7 @@ namespace Kotoba_Project
                  "\n 1. Spring, Springtime"}},
 
                 {"箸", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hashi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はし" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1330,7 +1330,7 @@ namespace Kotoba_Project
                  "\n 1. Chopsticks"}},
 
                 {"橋", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hashi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はし" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1338,7 +1338,7 @@ namespace Kotoba_Project
                  "\n 1. Bridge"}},
 
                 {"走る", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hashiru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はしる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1346,7 +1346,7 @@ namespace Kotoba_Project
                  "\n 1. To run"}},
 
                 {"二十歳", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hatachi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はたち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1354,7 +1354,7 @@ namespace Kotoba_Project
                  "\n 1. 20 years old, Twenty years old"}},
 
                 {"働く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hataraku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はたらく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1362,7 +1362,7 @@ namespace Kotoba_Project
                  "\n 1. To work"}},
 
                 {"二十日", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hatsuka" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はつか" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1370,7 +1370,7 @@ namespace Kotoba_Project
                  "\n 1. Twentieth day of the month, 20 days"}},
 
                 {"早い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hayai" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はやい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1378,7 +1378,7 @@ namespace Kotoba_Project
                  "\n 1. Fast, Early"}},
 
                 {"速い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hayai" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "はやい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1386,7 +1386,7 @@ namespace Kotoba_Project
                  "\n 1. Fast, Quick, Hasty, Brisk"}},
 
                 {"辺", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hen" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "へん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1394,7 +1394,7 @@ namespace Kotoba_Project
                  "\n 1. Area"}},
 
                 {"下手", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "heta" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "へた" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1402,7 +1402,7 @@ namespace Kotoba_Project
                  "\n 1. Unskillful, Poor (in skills), awkwark"}},
 
                 {"部屋", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "heya" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "へや" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1410,7 +1410,7 @@ namespace Kotoba_Project
                  "\n 1. Room"}},
 
                 {"左", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hidari" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひだり" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1418,7 +1418,7 @@ namespace Kotoba_Project
                  "\n 1. Left, Left hand side"}},
 
                 {"東", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "higashi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひがし" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1426,7 +1426,7 @@ namespace Kotoba_Project
                  "\n 1. East"}},
 
                 {"飛行機", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hikouki" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひこうき" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1434,7 +1434,7 @@ namespace Kotoba_Project
                  "\n 1. Airplane, Aircraft"}},
 
                 {"引く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hiku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1442,7 +1442,7 @@ namespace Kotoba_Project
                  "\n 1. To pull"}},
 
                 {"弾く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hiku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1450,7 +1450,7 @@ namespace Kotoba_Project
                  "\n 1. To play (an instrument)"}},
 
                 {"低い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hikui" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひくい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1458,7 +1458,7 @@ namespace Kotoba_Project
                  "\n 1. Short, Low"}},
 
                 {"暇", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hima" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひま" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1466,7 +1466,7 @@ namespace Kotoba_Project
                  "\n 1. Free time"}},
 
                 {"広い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hiroi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひろい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1474,7 +1474,7 @@ namespace Kotoba_Project
                  "\n 1. Spacious, Vast, Wide"}},
 
                 {"昼", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hiru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1482,7 +1482,7 @@ namespace Kotoba_Project
                  "\n 1. Noon, Midday, Daytime, Lunch"}},
 
                 {"昼ご飯", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hirugohan" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひるごはん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1490,7 +1490,7 @@ namespace Kotoba_Project
                  "\n 1. Lunch"}},
 
                 {"人", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hito" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひと" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1498,7 +1498,7 @@ namespace Kotoba_Project
                  "\n 1. Person, Human"}},
 
                 {"一人", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hitori" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひとり" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1506,7 +1506,7 @@ namespace Kotoba_Project
                  "\n 1. One person, Alone, Single"}},
 
                 {"一つ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hitotsu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひとつ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1514,7 +1514,7 @@ namespace Kotoba_Project
                  "\n 1. One thing, Only (one thing)"}},
 
                 {"他", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hoka" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほか" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1522,7 +1522,7 @@ namespace Kotoba_Project
                  "\n 1. Other (place, thing, person), The rest"}},
 
                 {"本", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hon" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1530,7 +1530,7 @@ namespace Kotoba_Project
                  "\n 1. Book, Volume, Script"}},
 
                 {"本棚", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hondana" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほんだな" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1538,7 +1538,7 @@ namespace Kotoba_Project
                  "\n 1. Bookshelf, Bookcase"}},
 
                 {"本当", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hontou" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほんとう" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1547,7 +1547,7 @@ namespace Kotoba_Project
                  "\n 2. Really, Not lying"}},
 
                 {"欲しい", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hoshii" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほしい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1555,7 +1555,7 @@ namespace Kotoba_Project
                  "\n 1. Want"}},
 
                 {"細い", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hosoi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほそい" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1563,7 +1563,7 @@ namespace Kotoba_Project
                  "\n 1. Thin, Slender"}},
 
                 {"ホテル", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hoteru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ほてる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1571,7 +1571,7 @@ namespace Kotoba_Project
                  "\n 1. Hotel"}},
 
                 {"百", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "hyaku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "ひゃく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1579,7 +1579,7 @@ namespace Kotoba_Project
                  "\n 1. 100, Hundred"}},
 
                 {"一", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ichi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1587,7 +1587,7 @@ namespace Kotoba_Project
                  "\n 1. One, Number one, Best, Foremost"}},
 
                 {"一番", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ichiban" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いちばん" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1595,7 +1595,7 @@ namespace Kotoba_Project
                  "\n 1. Number one, First, 1st, First Place, Best, Most"}},
 
                 {"一日", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ichinichi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いちにち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "一日 [いちにち], 一日 [ついたち]" +
@@ -1604,7 +1604,7 @@ namespace Kotoba_Project
                  "\n 2. The first day of the month"}},
 
                 {"家", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ie" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いえ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1612,7 +1612,7 @@ namespace Kotoba_Project
                  "\n 1. House, Residence, Family"}},
 
                 {"いかが", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ikaga" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いかが" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1620,7 +1620,7 @@ namespace Kotoba_Project
                  "\n 1. How, In what day, How about"}},
 
                 {"池", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ike" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いけ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1628,7 +1628,7 @@ namespace Kotoba_Project
                  "\n 1. Pond"}},
 
                 {"行く", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "iku" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いく" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1636,7 +1636,7 @@ namespace Kotoba_Project
                  "\n 1. To go, To move"}},
 
                 {"いくら", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ikura" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いくら" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1644,7 +1644,7 @@ namespace Kotoba_Project
                  "\n 1. How much?, How many?"}},
 
                 {"いくつ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ikutsu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いくつ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1652,7 +1652,7 @@ namespace Kotoba_Project
                  "\n 1. How many?, How old?"}},
 
                 {"今", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ima" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いま" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1660,7 +1660,7 @@ namespace Kotoba_Project
                  "\n 1. Now, The present time"}},
 
                 {"意味", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "imi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いみ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1668,7 +1668,7 @@ namespace Kotoba_Project
                  "\n 1. Meaning, Significance, Sense"}},
 
                 {"妹", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "imouto" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いもうと" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1676,7 +1676,7 @@ namespace Kotoba_Project
                  "\n 1. Younger Sister"}},
 
                 {"犬", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "inu" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いぬ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1684,7 +1684,7 @@ namespace Kotoba_Project
                  "\n 1. Dog"}},
 
                 {"入れる", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "ireru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いれる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1692,7 +1692,7 @@ namespace Kotoba_Project
                  "\n 1. To put in, To let in, To take in, To bring in, To insert, To install"}},
 
                 {"入口", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "iriguchi" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いりぐち" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1700,7 +1700,7 @@ namespace Kotoba_Project
                  "\n 1. Entrance, Entry, Gate"}},
 
                 {"色", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "iro" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いろ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1708,7 +1708,7 @@ namespace Kotoba_Project
                  "\n 1. Colour, Color"}},
 
                 {"色々", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "iroiro" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いろいろ" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1716,7 +1716,7 @@ namespace Kotoba_Project
                  "\n 1. Various"}},
 
                 {"いる", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "iru" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "いる" +
                  MT.dictionaryInformation4[languagueSettingsUpdater] + "居る [いる]" +
@@ -1724,7 +1724,7 @@ namespace Kotoba_Project
                  "\n 1. To be (Animated things), To have"}},
 
                 {"要る", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "iru" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いる" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1732,7 +1732,7 @@ namespace Kotoba_Project
                 "\n 1. To be needed, To be necessary, To be required, To be wanted, To need, To want"}},
 
                 {"医者", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "isha" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いしゃ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "お医者さん [おいしゃさん] (Polite)" +
@@ -1740,7 +1740,7 @@ namespace Kotoba_Project
                 "\n 1. Doctor, Physician"}},
 
                 {"忙しい", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "isogashii" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いそがしい" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "忙がしい [いそがしい］(Irregular)" +
@@ -1749,7 +1749,7 @@ namespace Kotoba_Project
                 "\n \n 2. Restless, Hurried, Fidgety"}},
 
                 {"一緒", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "issho" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いっしょ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1758,7 +1758,7 @@ namespace Kotoba_Project
                 "\n \n 2. (at) The same time"}},
 
                 {"椅子", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "isu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いす" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "倚子 [いす] (Rarely used kanji form), イス [いす]" +
@@ -1767,7 +1767,7 @@ namespace Kotoba_Project
                 "\n \n 2. Position, Seat, Office"}},
 
                 {"痛い", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "itai" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いたい" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "甚い [いたい] (Rarely used kanji form), いたい (kana only)" +
@@ -1776,7 +1776,7 @@ namespace Kotoba_Project
                 "\n \n 2. (Colloquial) Cringy, Embarrassing"}},
 
                 {"いつ", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "itsu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いつ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "何時 [いつ] (rarely used kanji form, usually written using kana alone)" +
@@ -1784,7 +1784,7 @@ namespace Kotoba_Project
                 "\n 1. When, At what time, How soon"}},
 
                 {"五日", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "itsuka" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いつか" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "5日 [ごにち] (Irregular kana usage, 5 can be replaced with 五)" +
@@ -1793,7 +1793,7 @@ namespace Kotoba_Project
                 "\n \n 2. Five days"}},
 
                 {"五つ", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "itsutsu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いつつ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1801,7 +1801,7 @@ namespace Kotoba_Project
                 "\n 1. 5 (things)"}},
 
                 {"言う", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "iu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いう" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "言う [ゆう], 云う [いう], 云う [ゆう], 謂う [いう], 謂う [ゆう]" +
@@ -1811,7 +1811,7 @@ namespace Kotoba_Project
                 "\n \n 3. To make a noise"}},
 
                 {"嫌", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "iya" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "いや" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1819,7 +1819,7 @@ namespace Kotoba_Project
                 "\n 1. Disliking, Not Wanting, Unwilling (to do), Reluctant, To not like"}},
 
                 {"じゃあ", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jaa" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じゃあ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "じゃ" +
@@ -1827,7 +1827,7 @@ namespace Kotoba_Project
                 "\n 1. Then, Well, So, Well then"}},
 
                 {"字引", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jibiki" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じびき" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "字引き [じびき]" +
@@ -1835,7 +1835,7 @@ namespace Kotoba_Project
                 "\n 1. Dictionary (Not very common nowadays, but still used in phrases like '生き字引'.)"}},
 
                 {"自分", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jibun" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じぶん" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1845,7 +1845,7 @@ namespace Kotoba_Project
                 "\n \n 3. (Kansai dialect) You"}},
 
                 {"自動車", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jidousha" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じどうしゃ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1853,7 +1853,7 @@ namespace Kotoba_Project
                 "\n 1. Automobile, Car, Motorcar, Motor Vehicle, Auto"}},
 
                 {"時間", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jikan" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じかん" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1863,7 +1863,7 @@ namespace Kotoba_Project
                 "\n \n 3. Period, Class, Lesson"}},
 
                 {"辞書", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jisho" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じしょ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1871,7 +1871,7 @@ namespace Kotoba_Project
                 "\n 1. Dictionary, Lexicon"}},
 
                 {"自転車", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jitensha" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じてんしゃ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "自転車 [じでんしゃ]" +
@@ -1879,7 +1879,7 @@ namespace Kotoba_Project
                 "\n 1. Bicycle, Bike"}},
 
                 {"丈夫", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "joubu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じょうぶ" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1887,7 +1887,7 @@ namespace Kotoba_Project
                 "\n 1. Healthy, Robust, Strong, Solid, Durable"}},
 
                 {"上手", new List<string>{
-                MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+                MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "jouzu" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "じょうず" +
                 MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1896,42 +1896,42 @@ namespace Kotoba_Project
 
 
 {"授業", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "jyugyou" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "じゅぎょう" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Lesson, Class work, Class (Time)"}},
 {"十", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "jyuu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "じゅう" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Number 10"}},
 {"鞄", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaban" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かばん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Bag, Satchel, Briefcase, Basket"}},
 {"花瓶", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kabin" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かびん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. (Flower) Vase"}},
 {"角", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kado" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かど" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Corner, Angle"}},
 {"帰る", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaeru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かえる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1939,14 +1939,14 @@ namespace Kotoba_Project
     "\n 1. To go back, To return back" +
     "\n \n 2. To return home"}},
 {"返す", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaesu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かえす" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To return something"}},
 {"鍵", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kagi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かぎ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1954,14 +1954,14 @@ namespace Kotoba_Project
     "\n 1. Key, Key (to a problem, success, etc), Clue" +
     "\n \n 2. Lock"}},
 {"階段", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaidan" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かいだん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Stairs, Stairway, Staircase"}},
 {"買い物", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaimono" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かいもの" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1969,21 +1969,21 @@ namespace Kotoba_Project
     "\n 1. Shopping, Purchased goods"}},
 
 {"会社", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaisha" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かいしゃ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Company, Corporation"}},
 {"掛かる", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kakaru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かかる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To take (a resource, e.g time or money)"}},
 {"掛ける", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kakeru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かける" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -1992,42 +1992,42 @@ namespace Kotoba_Project
     "\n \n 2. To make (a call)" +
     "\n \n 3. To multiply (arithmetic operations)"}},
 {"書く", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaku" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かく" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To write, To compose, To pen, To draw [See also 描く]"}},
 {"カメラ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kamera" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かめら" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Camera"}},
 {"紙", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kami" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かみ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Paper"}},
 {"漢字", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kanji" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かんじ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Kanji, Chinese characters"}},
 {"カップ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kappu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かっぷ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Cup"}},
 {"体", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "karada" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "からだ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "身体 [からだ]" +
@@ -2035,7 +2035,7 @@ namespace Kotoba_Project
     "\n 1. Body" +
     "\n \n 2. Dead body"}},
 {"辛い", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "karai" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "からい" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "辛い [つらい]" +
@@ -2045,21 +2045,21 @@ namespace Kotoba_Project
     "\n \n 3. [Only applies to つらい] Painful, Bitter, Difficult (Emotionally), Tough"}},
 
 {"カレー", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "karee" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かれー" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Curry"}},
 {"カレンダー", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "karendaa" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かれんだー" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Calendar"}},
 {"借りる", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kariru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かりる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2067,21 +2067,21 @@ namespace Kotoba_Project
     "\n 1. To borrow, To have a loan" +
     "\n \n 2. To rent, To hire"}},
 {"傘", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kasa" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かさ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Umbrella, Parasol"}},
 {"貸す", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kasu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かす" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To lend, To loan"}},
 {"方", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kata" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かた" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2089,44 +2089,44 @@ namespace Kotoba_Project
     "\n 1. Way of doing something" +
     "\n \n 2. Direction, Way"}},
 {"家庭", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "katei" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かてい" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Household"}},
 {"買う", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kau" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かう" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To buy, To purchase"}},
 {"川", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kawa" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かわ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. River, Stream"}},
 {"可愛い", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kawaii" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かわいい" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Adorable, Cute, charming, lovely, Pretty" +
-    "\n \n Innocent, Childlike, Childish, Lovable, Little, Tiny"}},
+    "\n \n 2. Innocent, Childlike, Childish, Lovable, Little, Tiny"}},
 
 {"火曜日", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kayoubi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かようび" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Tuesday, The second day of the week"}},
 {"風", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaze" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かぜ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2134,7 +2134,7 @@ namespace Kotoba_Project
     "\n 1. Wind,"}},
 
 {"風邪", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kaze" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かぜ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2142,21 +2142,21 @@ namespace Kotoba_Project
     "\n 1. A cold, Ague, Inflammatory respiratory system illness (in general)"}},
 
 {"家族", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kazoku" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "かぞく" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Family, Member of family"}},
 {"警官", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "keikan" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "けいかん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Policeman, Police officer"}},
 {"結婚", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kekkon" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "けっこん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2164,21 +2164,21 @@ namespace Kotoba_Project
     "\n 1. Marriage" +
     "\n \n 2. (Used as 結婚する) To marry"}},
 {"結構", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kekkon" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "けっこん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Splendid, Enough"}},
 {"今朝", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kesa" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "けさ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This morning"}},
 {"消す", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kesu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "けす" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2187,21 +2187,21 @@ namespace Kotoba_Project
     "\n \n 2. To turn off (A light, TV, heater, etc), To switch off" +
     "\n \n 3. To extinguish (a fire, candle, etc), To put out"}},
 {"木", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "ki" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "き" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Tree, Wood, Timber"}},
 {"消える", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kieru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きえる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To disappear"}},
 {"黄色い", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiiro" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きいろ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2209,7 +2209,7 @@ namespace Kotoba_Project
     "\n 1. (Color) Yellow"}},
 
 {"聞く", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiku" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きく" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2217,35 +2217,35 @@ namespace Kotoba_Project
     "\n 1. To hear, To listen (To music)" +
     "\n \n 2. To ask"}},
 {"昨日", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kinou" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きのう" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Yesterday, The day before today"}},
 {"金曜日", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kin'youbi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きんようび" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Friday, The fifth day of the week"}},
 {"切符", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kippu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きっぷ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Ticket"}},
 {"嫌い", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kirai" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きらい" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To hate, To detest, To dislike, Disagreeable"}},
 {"綺麗", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kirei" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きれい" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2253,21 +2253,21 @@ namespace Kotoba_Project
     "\n 1. Clean, Clear, Pure, Tidy, Neat" +
     "\n \n 2. Pretty, Lovely, Beautiful"}},
 {"キログラム", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiroguramu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きろぐらむ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Kilogram, KG"}},
 {"キロメートル", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiromeetoru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きろめーとる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Kilometer, KM"}},
 {"切る", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2277,7 +2277,7 @@ namespace Kotoba_Project
     "\n \n 3. To turn off (e.g the light)" +
     "\n \n 4. To terminate (e.g a conversation), To hang up (the phone), To disconnect (from a call)."}},
 {"着る", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kiru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2286,21 +2286,21 @@ namespace Kotoba_Project
     "\n \n 2. To take (the blame, responsability), To bear"}},
 
 {"喫茶店", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kissaten" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きっさてん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Coffee shop, tearoom, (a) Cafe"}},
 {"北", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kita" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きた" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. North, N"}},
 {"汚い", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kitanai" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きたない" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2308,14 +2308,14 @@ namespace Kotoba_Project
     "\n 1. Dirty, Unclean, Indecent (Language, etc), Vulgar" +
     "\n \n 2. Disordered, Messy, Untidy, Poor"}},
 {"切手", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kitte" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "きって" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Stamp (postage), Merchandise certificate"}},
 {"こっち", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kocchi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こっち" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2323,14 +2323,14 @@ namespace Kotoba_Project
     "\n 1. This person, This way" +
     "\n \n 2. Here"}},
 {"こちら", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kochira" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こちら" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This direction, This way"}},
 {"子供", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kodomo" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こども" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2338,7 +2338,7 @@ namespace Kotoba_Project
     "\n 1. Child" +
     "\n \n 2. Childish"}},
 {"声", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "koe" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こえ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2346,14 +2346,14 @@ namespace Kotoba_Project
     "\n 1. Voice" +
     "\n \n 2. Singing (of a bird), Chirping (of an insect)"}},
 {"ここ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "koko" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "ここ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Here"}},
 {"九日", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kokonoka" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "ここのか" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2361,70 +2361,70 @@ namespace Kotoba_Project
     "\n 1. Nine days, The nineth day of the month"}},
 
 {"九つ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kokonotsu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "ここのつ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Nine things"}},
 {"困る", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "komaru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こまる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To be troubled"}},
 {"今晩", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "konban" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こんばん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Tonight, This evening"}},
 {"今月", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kongetsu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こんげつ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This month, The month one is currently on"}},
 {"こんな", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "konna" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こんな" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Such, Like this"}},
 {"この", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kono" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "この" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This... (followed by a noun)"}},
 {"今週", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "konshuu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こんしゅう" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This week"}},
 {"コーヒー", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "koohii" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "コーヒー" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Coffee"}},
 {"コート", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kooto" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "コート" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Coat"}},
 {"コピー", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kopi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "コピー" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2432,28 +2432,28 @@ namespace Kotoba_Project
     "\n 1. [From English] Copy, Photocopy"}},
 
 {"コップ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "koppu" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "コップ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. [From English] Cup (Drinking vessel, Measure, Brassiere, Prize, etc)"}},
 {"これ", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kore" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "これ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This (one)"}},
 {"答える", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kotaeru" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こたえる" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. To answer, To reply"}},
 {"言葉", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kotoba" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "ことば" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
@@ -2461,26 +2461,756 @@ namespace Kotoba_Project
     "\n 1. Language, Dialect" +
     "\n \n Word, Phrase, Expression, Term"}},
 {"今年", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kotoshi" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "ことし" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. This year"}},
 {"交番", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "kouban" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こうばん" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
     "\n 1. Police box"}},
 {"紅茶", new List<string>{
-    MT.dictionaryInformation1[languagueSettingsUpdater] + "N5" +
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
     MT.dictionaryInformation2[languagueSettingsUpdater] + "koucha" +
     MT.dictionaryInformation3[languagueSettingsUpdater] + "こうちゃ" +
     MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
     MT.dictionaryInformation5[languagueSettingsUpdater] +
-    "\n 1. Black tea"}}
+    "\n 1. Black tea"}},
+
+{"公園", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kouen" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こうえん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Park"}},
+{"交差点", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kousaten" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "こうさてん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Intersection"}},
+{"口", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuchi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Mouth" +
+    "\n \n 2. Opening, Hole, Orifice" +
+    "\n \n 3. Gate, Door, Entrance, Exit"}},
+{"果物", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kudamono" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くだもの" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Fruit"}},
+{"下さい", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kudasai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ください" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Please"}},
+{"曇り", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kumori" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くもり" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Cloudiness, Cloudy weather"}},
+{"曇る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kumoru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くもる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To become cloudy, To become dim"}},
+{"国", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuni" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くに" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Country, State, Region"}},
+{"暗い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kurai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くらい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Dark, Gloomy, Murky, Obscure"}},
+{"クラス", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kurasu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くらす" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Class"}},
+
+{"黒", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuro" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くろ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Black"}},
+{"黒い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuroi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くろい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. (Adjective) Color Black"}},
+{"来る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To come, To arrive" +
+    "\n \n 2. To come back, To do... and come back" +
+    "\n \n 3. To come to be, To become"}},
+{"車", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kuruma" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くるま" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Car, Automobile, Vehicle"}},
+{"薬", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kusuri" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くすり" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Medicine"}},
+{"靴", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kutsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Shoes"}},
+{"靴下", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kutsushita" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "くつした" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Socks"}},
+{"去年", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kyonen" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きょねん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Last year"}},
+{"今日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kyou" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きょう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Today, The day one is currently on, This day"}},
+{"兄弟", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kyoudai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きょうだい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Siblings, Brothers and sisters"}},
+
+
+{"教室", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kyoushitsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きょうしつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Classroom"}},
+{"九", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "kyuu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "きゅう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Number nine, 9"}},
+{"マッチ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "macchi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まっち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Match"}},
+{"町", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "machi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Town, Block, Neighborhood"}},
+{"窓", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mado" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まど" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Window"}},
+{"前", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mae" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まえ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. (Used as a adverb, 前に) Previous, Before" +
+    "\n \n 2. (Used as a adjective with の particle, 前の) The front / frontal part" +
+    "\n \n 3. (Use to count time pased, ～前に) ...ago"}},
+{"曲がる", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "magaru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まがる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To bend, To curve, To Twist" +
+    "\n \n 2. To turn"}},
+{"毎朝", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "maiasa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいあさ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every morning"}},
+{"毎晩", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "maiban" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいばん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every night"}},
+{"毎日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mainichi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいにち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every day"}},
+
+{"毎週", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "maishuu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいしゅう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every week"}},
+{"毎年", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "maitoshi / mainen" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいとし / まいねん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every year"}},
+{"毎月", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "maigetsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まいげつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Every month"}},
+{"万", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "man" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. 10.000, Ten thousand"}},
+{"万年筆", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mannenhitsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まんねんひつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Fountain pen"}},
+{"丸い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "marui" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まるい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Round, Circular" +
+    "\n \n 2. Perfect"}},
+{"真っ直ぐ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "massugu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まっすぐ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Straight ahead, Direct" +
+    "\n \n 2. Straightforward, Honest, Frank"}},
+{"待つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "matsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To wait"}},
+{"不味い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mazui" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "まずい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Unpleasant"}},
+{"目", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "me" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "め" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Eye"}},
+
+{"メートル", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "meetoru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "めーとる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. M, Meter"}},
+{"眼鏡", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "megane" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "めがね" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Glasses"}},
+{"道", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "michi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みち" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Road, Street"}},
+{"緑", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "midori" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みどり" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Green"}},
+{"磨く", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "migaku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みがく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To polish, To shine, To brush (e.g teeth)"}},
+{"右", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "migi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みぎ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Right (direction), Right hand side"}},
+{"短い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mijikai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みじかい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Short"}},
+{"三日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mikka" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みっか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Third day of the month, three days"}},
+{"耳", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mimi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みみ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Ears"}},
+{"南", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "minami" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みなみ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. South"}},
+
+{"皆さん", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "minasan" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みなさん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Everyone"}},
+{"みんな", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "minna" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みんな" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. All, Everyone, Everybody"}},
+{"見る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "miru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To see, To look, To watch, To view, To observe" +
+    "\n \n 2. To examinate, To look over, To assess, To check, To judge"}},
+{"店", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mise" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みせ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Store, Shop, Establishment, Restaurant (See レストラン)"}},
+{"見せる", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "miseru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みせる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To show, To display"}},
+{"三つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mittsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みっつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Three (things)"}},
+{"水", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mizu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "みず" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Water, Fluid, Liquid"}},
+{"木曜日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mokuyoubi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もくようび" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Thursday"}},
+{"門", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mon" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もん" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Gate"}},
+
+{"問題", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mondai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もんだい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Problem"}},
+{"物", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mono" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もの" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Object, Thing"}},
+{"持つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "motsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To have, To possess, To own" +
+    "\n \n 2. To hold (In one's hand), To take, To carry"}},
+{"もっと", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "motto" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もっと" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. More, Longer, Further"}},
+{"もう一度", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mou ichido" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "もういちど" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Once more, Again"}},
+{"六日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "muika" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "むいか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. The sixth day of the month, Six days"}},
+{"向こう", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mukou" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "むこう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Over there, That way, Far away, Beyond" +
+    "\n \n 2. Opposite side, Other side, Opposite direction"}},
+{"村", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "mura" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "むら" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Village"}},
+{"六つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "muttsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "むっつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Six (things)"}},
+{"難しい", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "muzukashii" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "むずかしい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Hard, Difficult" +
+    "\n \n 2. Impossible, Unfeasible (Euphemistic)"}},
+
+{"長い", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nagai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ながい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Long (Distance), Long (Time), Lengthy"}},
+{"ナイフ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "naifu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ないふ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. [From English] Knife"}},
+{"中", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "naka" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Inside, In, Within, Center" +
+    "\n \n 2. ～ing, In the middle of something (e.g studying, 勉強中)"}},
+{"鳴く", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "naku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To cry, To chirp, To bark, To meow"}},
+{"無くす", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nakusu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なくす" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To lose (something)" +
+    "\n \n 2. To get rid of, To eliminate, To eradicate, To abolish"}},
+{"名前", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "namae" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なまえ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Name, Given name, First name"}},
+{"七つ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nanatsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ななつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Seven (Things)"}},
+{"何", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nani" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なに" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. What, What!, What do you want!? (Aggressive)"}},
+{"七日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nanoka" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なのか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. The seventh day of the month, Seven days"}},
+{"並べる", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "naraberu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ならべる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To line up, To set up"}},
+{"並ぶ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "narabu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ならぶ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To line up, To stand in a line"}},
+{"習う", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "narau" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ならう" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To be taught, To learn (from a teacher)"}},
+{"夏", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "natsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Summer"}},
+{"夏休み", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "natsuyasumi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なつやすみ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Summer vacation, Summer holiday"}},
+{"何故", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "naze" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "なぜ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Why?, For what reason?"}},
+{"猫", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "neko" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ねこ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Cat"}},
+{"ネクタイ", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nekutai" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ねくたい" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Necktie, Tie"}},
+{"寝る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "neru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "ねる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To sleep, To go to bed, To lie down"}},
+{"二", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "ni" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "に" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Two, 2"}},
+
+{"日曜日", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nichiyoubi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にちようび" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Sunday, The last day of the week"}},
+{"賑やか", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nigiyaka" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にぎやか" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Bustling, Busy"}},
+
+{"日記", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nikki" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にっき" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Diary, Journal"}},
+{"肉", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "niku" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にく" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Meat"}},
+{"荷物", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nimotsu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にもつ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Luggage, Baggage"}},
+{"西", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nishi" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にし" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. West"}},
+{"鶏", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "niwa" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "にわ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Garden"}},
+{"登る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "noboru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "のぼる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To climb"}},
+{"飲み物", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nomimono" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "のみもの" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. A drick, Beverage"}},
+{"飲む", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nomu" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "のむ" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To drink"}},
+{"ノート", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "nooto" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "のおと" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. Notebook, Excersive book" +
+    "\n \n 2. Note" +
+    "\n \n 3. (Musical) Note" +
+    "\n \n 4. Laptop (Computer), Notebook (Computer)"}},
+
+{"乗る", new List<string>{
+    MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+    MT.dictionaryInformation2[languagueSettingsUpdater] + "noru" +
+    MT.dictionaryInformation3[languagueSettingsUpdater] + "のる" +
+    MT.dictionaryInformation4[languagueSettingsUpdater] + "" +
+    MT.dictionaryInformation5[languagueSettingsUpdater] +
+    "\n 1. To get on (train, plane, bus, ship, etc)"}},
 
             };
         }

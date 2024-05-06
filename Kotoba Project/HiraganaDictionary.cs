@@ -6,25 +6,28 @@ using System.Threading.Tasks;
 
 namespace Kotoba_Project
 {
-
-    // Dictionary for alternative forms of the same word.
-    internal class ExtendedSearch : JLPTClass
+    internal class HiraganaDictionary : JLPTClass
     {
-        public Dictionary<string, List<string>> extraJisho;
 
-        MenuTranslations MT = new MenuTranslations();
 
-        public int languagueSettingsUpdater;
-
-        public ExtendedSearch()
+        // Dictionary for alternative forms of the same word.
+        internal class ExtendedSearch : JLPTClass
         {
-            Initialize();
-        }
-        public void Initialize()
-        {
-            extraJisho = new Dictionary<string, List<string>>()
+            public Dictionary<string, List<string>> extraJisho;
+
+            MenuTranslations MT = new MenuTranslations();
+
+            public int languagueSettingsUpdater;
+
+            public ExtendedSearch()
             {
-                {"konnichiha", new List<string>{
+                Initialize();
+            }
+            public void Initialize()
+            {
+                extraJisho = new Dictionary<string, List<string>>()
+            {
+                {"こんにちは", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'nichiwa" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "こんにちは" +
@@ -42,7 +45,7 @@ namespace Kotoba_Project
                  "\n 1. Hello, Good day, Good Afternoon" +
                  "\n -- A way of greeting someone politely in the afternoon."}},
 
-                {"konnichiwa", new List<string>{
+                {"こんにちわ", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[3] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'nichiwa" +
                  MT.dictionaryInformation3[languagueSettingsUpdater] + "こんにちは" +
@@ -50,15 +53,6 @@ namespace Kotoba_Project
                  MT.dictionaryInformation5[languagueSettingsUpdater] +
                  "\n 1. Hello, Good day, Good Afternoon" +
                  "\n -- A way of greeting someone politely in the afternoon."}},
-
-                {"konpyuutaa", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
-                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'piuu taa" +
-                 MT.dictionaryInformation3[languagueSettingsUpdater] + "こんぴゅーたー" +
-                 MT.dictionaryInformation4[languagueSettingsUpdater] + "コンピューター [こんぴゅーたー]" +
-                 MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. [From English] Computer, Desktop, PC" +
-                 "\n -- Multipurpose machine usually used for working, gaming and studying."}},
 
                 {"こんぴゅうたあ", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
@@ -96,7 +90,7 @@ namespace Kotoba_Project
                  "\n 1. [From English] Computer, Desktop, PC" +
                  "\n -- Multipurpose machine usually used for working, gaming and studying."}},
 
-                {"benkyou", new List<string>{
+                {"べんきょう", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Ben kyoo" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "べんきょう" +
@@ -105,7 +99,7 @@ namespace Kotoba_Project
                  "\n 1. To study, Diligence" +
                  "\n -- The act of acquiring knowledge by investigating and learning from a source like a book or any related material about a certain topic."}},
 
-                {"benkyo", new List<string>{
+                {"べんきょ", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Ben kyoo" +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "べんきょう" +
@@ -125,7 +119,7 @@ namespace Kotoba_Project
                  "\n 2. Non-serious, Unimportant, Trivial" +
                  "\n -- (い-Adjective) Something you don't give the sufficient attention or you think it's not worthy to worry about."}},
 
-                {"abiru", new List<string>{
+                {"あびる", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "a biru " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あびる" +
@@ -134,7 +128,7 @@ namespace Kotoba_Project
                  "\n 1. To bathe, To shower" +
                  "\n \n 2. To be covered in, To be flooded with"}},
 
-                {"abunai", new List<string>{
+                {"あぶない", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "abu nai " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あぶない" +
@@ -143,30 +137,7 @@ namespace Kotoba_Project
                  "\n 1. Dangerous, Risky, Hazardous, Perilous, Precarious" +
                  "\n \n 2. Look out!, Watch out!, Be careful!, That's Dangerous!"}},
 
-                {"acchi", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
-                MT.dictionaryInformation2[languagueSettingsUpdater] + "Acchi " +
-                MT.dictionaryInformation3[languagueSettingsUpdater] + "あっち" +
-                MT.dictionaryInformation4[languagueSettingsUpdater] + "彼方 [あっち] (Rarely used with Kanji), 彼方 [あち] (Obsolete), 彼方 [あちら] (Rarely used with Kanji), あっち" +
-                MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. That way (over there), There" +
-                 "\n -- Usually written using kana alone"}},
-
-                {"ageru", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
-                MT.dictionaryInformation2[languagueSettingsUpdater] + "ageru " +
-                MT.dictionaryInformation3[languagueSettingsUpdater] + "あげる" +
-                MT.dictionaryInformation4[languagueSettingsUpdater] + "揚げる [あげる], 挙げる [あげる], 上げる [あげる] (Commonly used)" +
-                MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. To give (Sender is marked with は/が and receiver is marked with に)" +
-                 "\n -- To give someone else something." +
-                 "\n 2. To do a favor, To give someone else a favor, To do (something) for (the sake of someone else)." +
-                 "\n -- (～てあげる) to do something for someone else." +
-                 "\n 3. To raise, To elevate, To increase" +
-                 "\n -- The action of making something going up (in one or other way)." +
-                 "\n 4. To throw up, To vomit"}},
-
-                {"aka", new List<string>{
+                {"あか", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "aka " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あか" +
@@ -174,7 +145,7 @@ namespace Kotoba_Project
                 MT.dictionaryInformation5[languagueSettingsUpdater] +
                  "\n 1. (Color) [Noun] Red, Crimson, Scarlet"}},
 
-                {"akai", new List<string>{
+                {"あかい", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "akai " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あかい" +
@@ -182,7 +153,7 @@ namespace Kotoba_Project
                 MT.dictionaryInformation5[languagueSettingsUpdater] +
                  "\n 1. (Color) [Adjective] Red, Crimson, Scarlet"}},
 
-                {"akarui", new List<string>{
+                {"あかるい", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Akarui " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あかるい" +
@@ -192,7 +163,7 @@ namespace Kotoba_Project
                  "\n -- High intensity of luminity." +
                  "\n 2. Happy, Cheerful, Bright, Sunny"}},
 
-                {"akeru", new List<string>{
+                {"あける", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "akeru " +
                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あける" +
@@ -3354,7 +3325,8 @@ namespace Kotoba_Project
 
             };
 
-        }
+            }
 
+        }
     }
 }

@@ -78,6 +78,7 @@
     <Compile Include="DictForMiniGame.cs" />
     <Compile Include="Dictionary.cs" />
     <Compile Include="ExtendedSearch.cs" />
+    <Compile Include="HiraganaDictionary.cs" />
     <Compile Include="JLPTClass.cs" />
     <Compile Include="MenuTranslations.cs" />
     <Compile Include="Minigame.cs" />
