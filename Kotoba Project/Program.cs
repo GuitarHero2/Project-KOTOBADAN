@@ -56,7 +56,7 @@ namespace Kotoba_Project
                     if (keyPressed.Key == ConsoleKey.D1)
                     {
                         Console.Clear();
-                        Console.WriteLine(MT.dictionaryMenu[MT.languageVariable] + "\n \n" + MT.currentNumberOfWords[MT.languageVariable] + "303 \n" + MT.currentNumberOfDefinitions[MT.languageVariable] + "367");
+                        Console.WriteLine(MT.dictionaryMenu[MT.languageVariable] + "\n \n" + MT.currentNumberOfWords[MT.languageVariable] + "402 \n" + MT.currentNumberOfDefinitions[MT.languageVariable] + "486");
                         searchBar = Console.ReadLine();
 
                         if (dict.jisho.ContainsKey(searchBar))

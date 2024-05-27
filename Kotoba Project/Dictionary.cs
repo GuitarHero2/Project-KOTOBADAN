@@ -106,6 +106,48 @@ namespace Kotoba_Project
                  "\n -- The action of making something going up (in one or other way)." +
                  "\n 4. To throw up, To vomit"}},
 
+                {"上げる", new List<string>{
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+                 MT.dictionaryInformation2[languagueSettingsUpdater] + "ageru " +
+                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あげる" +
+                 MT.dictionaryInformation4[languagueSettingsUpdater] + "揚げる [あげる], 挙げる [あげる], 上げる [あげる] (Commonly used)" +
+                 MT.dictionaryInformation5[languagueSettingsUpdater] +
+                 "\n 1. To give (Sender is marked with は/が and receiver is marked with に)" +
+                 "\n -- To give someone else something." +
+                 "\n 2. To do a favor, To give someone else a favor, To do (something) for (the sake of someone else)." +
+                 "\n -- (～てあげる) to do something for someone else." +
+                 "\n 3. To raise, To elevate, To increase" +
+                 "\n -- The action of making something going up (in one or other way)." +
+                 "\n 4. To throw up, To vomit"}},
+
+                {"挙げる", new List<string>{
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+                 MT.dictionaryInformation2[languagueSettingsUpdater] + "ageru " +
+                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あげる" +
+                 MT.dictionaryInformation4[languagueSettingsUpdater] + "揚げる [あげる], 挙げる [あげる], 上げる [あげる] (Commonly used)" +
+                 MT.dictionaryInformation5[languagueSettingsUpdater] +
+                 "\n 1. To give (Sender is marked with は/が and receiver is marked with に)" +
+                 "\n -- To give someone else something." +
+                 "\n 2. To do a favor, To give someone else a favor, To do (something) for (the sake of someone else)." +
+                 "\n -- (～てあげる) to do something for someone else." +
+                 "\n 3. To raise, To elevate, To increase" +
+                 "\n -- The action of making something going up (in one or other way)." +
+                 "\n 4. To throw up, To vomit"}},
+
+                {"揚げる", new List<string>{
+                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
+                 MT.dictionaryInformation2[languagueSettingsUpdater] + "ageru " +
+                 MT.dictionaryInformation3[languagueSettingsUpdater] + "あげる" +
+                 MT.dictionaryInformation4[languagueSettingsUpdater] + "揚げる [あげる], 挙げる [あげる], 上げる [あげる] (Commonly used)" +
+                 MT.dictionaryInformation5[languagueSettingsUpdater] +
+                 "\n 1. To give (Sender is marked with は/が and receiver is marked with に)" +
+                 "\n -- To give someone else something." +
+                 "\n 2. To do a favor, To give someone else a favor, To do (something) for (the sake of someone else)." +
+                 "\n -- (～てあげる) to do something for someone else." +
+                 "\n 3. To raise, To elevate, To increase" +
+                 "\n -- The action of making something going up (in one or other way)." +
+                 "\n 4. To throw up, To vomit"}},
+
                 {"赤", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                  MT.dictionaryInformation2[languagueSettingsUpdater] + "aka " +
