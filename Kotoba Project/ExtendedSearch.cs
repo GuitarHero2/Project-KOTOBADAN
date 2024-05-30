@@ -60,42 +60,6 @@ namespace Kotoba_Project
                  "\n 1. [From English] Computer, Desktop, PC" +
                  "\n -- Multipurpose machine usually used for working, gaming and studying."}},
 
-                {"こんぴゅうたあ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
-                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'piuu taa" +
-                 MT.dictionaryInformation3[languagueSettingsUpdater] + "こんぴゅーたー" +
-                 MT.dictionaryInformation4[languagueSettingsUpdater] + "コンピューター [こんぴゅーたー]" +
-                 MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. [From English] Computer, Desktop, PC" +
-                 "\n -- Multipurpose machine usually used for working, gaming and studying."}},
-
-                {"こんぴゅーたー", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
-                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'piuu taa" +
-                 MT.dictionaryInformation3[languagueSettingsUpdater] + "こんぴゅーたー" +
-                 MT.dictionaryInformation4[languagueSettingsUpdater] + "コンピューター [こんぴゅーたー]" +
-                 MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. [From English] Computer, Desktop, PC" +
-                 "\n -- Multipurpose machine usually used for working, gaming and studying."}},
-
-                {"こんぴゅうたー", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
-                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'piuu taa" +
-                 MT.dictionaryInformation3[languagueSettingsUpdater] + "こんぴゅーたー" +
-                 MT.dictionaryInformation4[languagueSettingsUpdater] + "コンピューター [こんぴゅーたー]" +
-                 MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. [From English] Computer, Desktop, PC" +
-                 "\n -- Multipurpose machine usually used for working, gaming and studying."}},
-
-                {"こんぴゅーたあ", new List<string>{
-                 MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5]+
-                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Kon'piuu taa" +
-                 MT.dictionaryInformation3[languagueSettingsUpdater] + "こんぴゅーたー" +
-                 MT.dictionaryInformation4[languagueSettingsUpdater] + "コンピューター [こんぴゅーたー]" +
-                 MT.dictionaryInformation5[languagueSettingsUpdater] +
-                 "\n 1. [From English] Computer, Desktop, PC" +
-                 "\n -- Multipurpose machine usually used for working, gaming and studying."}},
-
                 {"benkyou", new List<string>{
                  MT.dictionaryInformation1[languagueSettingsUpdater] + jlptLevel[5] +
                 MT.dictionaryInformation2[languagueSettingsUpdater] + "Ben kyoo" +

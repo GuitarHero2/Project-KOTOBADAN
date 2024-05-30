@@ -19,6 +19,7 @@ namespace Kotoba_Project
             EnglishDictionary enDict = new EnglishDictionary();
             MenuTranslations MT = new MenuTranslations();
             MinigameScript quizGame = new MinigameScript();
+            HiraganaDictionary hiraganaDict = new HiraganaDictionary();
 
             bool programIsOn = true;
             string searchBar;
@@ -74,13 +75,7 @@ namespace Kotoba_Project
                         }
                         else
                         {
-                            if (!EDict.extraJisho.ContainsKey(searchBar))
-                            {
-                                    Console.Clear();
-                                    Console.WriteLine(MT.dictionaryErrorExtendedSearch[MT.languageVariable] + searchBar);
-                                    keyPressed = Console.ReadKey();
-                            }
-                            else
+                            if (!hiraganaDict.kanaDict.ContainsKey(searchBar))
                             {
                                 Console.Clear();
                                 List<string> definitions = EDict.extraJisho[searchBar.ToLower()];
@@ -91,7 +86,21 @@ namespace Kotoba_Project
                                     Console.WriteLine(definition);
                                 }
 
-                                Console.ReadKey(); 
+                                Console.ReadKey();
+                            }
+                            else
+                            {
+                                Console.Clear();
+                                List<string> definitions = hiraganaDict.kanaDict[searchBar.ToLower()];
+                                Console.WriteLine(MT.wordDefinitionMessage[MT.languageVariable] + $"{searchBar}");
+
+                                foreach (string definition in definitions)
+                                {
+                                    Console.WriteLine(definition);
+                                }
+
+                                Console.ReadKey();
+                                
                             }
                         }
 
