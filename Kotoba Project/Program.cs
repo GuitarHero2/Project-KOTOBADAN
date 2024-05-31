@@ -155,6 +155,8 @@ namespace Kotoba_Project
                             dict.Initialize();
                             EDict.languagueSettingsUpdater = 0;
                             EDict.Initialize();
+                            hiraganaDict.languagueSettingsUpdater = 0;
+                            hiraganaDict.Initialize();
                         }
                         else if (keyPressed.Key == ConsoleKey.D2)
                         {
@@ -165,6 +167,8 @@ namespace Kotoba_Project
                             dict.Initialize();
                             EDict.languagueSettingsUpdater = 1;
                             EDict.Initialize();
+                            hiraganaDict.languagueSettingsUpdater = 1;
+                            hiraganaDict.Initialize();
                         }
                         else if (keyPressed.Key == ConsoleKey.D3)
                         {
@@ -175,6 +179,8 @@ namespace Kotoba_Project
                             dict.Initialize();
                             EDict.languagueSettingsUpdater = 2;
                             EDict.Initialize();
+                            hiraganaDict.languagueSettingsUpdater = 2;
+                            hiraganaDict.Initialize();
                         }
                         else if (keyPressed.Key == ConsoleKey.D4)
                         {
@@ -185,6 +191,8 @@ namespace Kotoba_Project
                             dict.Initialize();
                             EDict.languagueSettingsUpdater = 3;
                             EDict.Initialize();
+                            hiraganaDict.languagueSettingsUpdater = 3;
+                            hiraganaDict.Initialize();
                         }
                     }
                 }
