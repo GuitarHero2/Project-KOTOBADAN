@@ -154,15 +154,15 @@ namespace Kotoba_Project
             "-- How do you want to use the dictionary this time? --",
             "-- Cómo quieres usar el diccionario esta vez? --",
             "-- 今回がどのように辞書を使用したいですか？ --",
-            "Hur vill du använda lexikon den här gången? --"
+            "-- Hur vill du använda lexikon den här gången? --"
         };
 
         public string[] dictionaryModes1 =
         {
-            "1. Japanese to English",
-            "1. Japonés a Inglés",
-            "1. 日本語から英語へ",
-            "1. Japanska till Engelska"
+            "1. Japanese to English (Temporally unavailable)",
+            "1. Japonés a Inglés (Temporalmente no disponible)",
+            "1. 日本語から英語へ (Temporally unavailable)",
+            "1. Japanska till Engelska (Temporärt inte tillgängligt)"
         };
 
         public string[] dictionaryModes2 =

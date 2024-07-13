@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -56,7 +57,7 @@ namespace Kotoba_Project
 
                     if (keyPressed.Key == ConsoleKey.D1)
                     {
-                        Console.Clear();
+                        /*Console.Clear();
                         Console.WriteLine(MT.dictionaryMenu[MT.languageVariable] + "\n \n" + MT.currentNumberOfWords[MT.languageVariable] + "402 \n" + MT.currentNumberOfDefinitions[MT.languageVariable] + "486");
                         searchBar = Console.ReadLine();
 
@@ -77,16 +78,25 @@ namespace Kotoba_Project
                         {
                             if (!hiraganaDict.kanaDict.ContainsKey(searchBar))
                             {
-                                Console.Clear();
-                                List<string> definitions = EDict.extraJisho[searchBar.ToLower()];
-                                Console.WriteLine(MT.wordDefinitionMessage[MT.languageVariable] + $"{searchBar}");
-
-                                foreach (string definition in definitions)
+                                if (EDict.extraJisho.ContainsKey(searchBar))
                                 {
-                                    Console.WriteLine(definition);
-                                }
+                                    Console.Clear();
+                                    List<string> definitions = EDict.extraJisho[searchBar.ToLower()];
+                                    Console.WriteLine(MT.wordDefinitionMessage[MT.languageVariable] + $"{searchBar}");
 
-                                Console.ReadKey();
+                                    foreach (string definition in definitions)
+                                    {
+                                        Console.WriteLine(definition);
+                                    }
+
+                                    Console.ReadKey();
+                                }
+                                else if (!EDict.extraJisho.ContainsKey(searchBar))
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(MT.dictionaryErrorExtendedSearch[MT.languageVariable] + searchBar);
+                                    Console.ReadKey();
+                                }
                             }
                             else
                             {
@@ -102,7 +112,7 @@ namespace Kotoba_Project
                                 Console.ReadKey();
                                 
                             }
-                        }
+                        }*/
 
                     }
                     else if (keyPressed.Key == ConsoleKey.D2)
