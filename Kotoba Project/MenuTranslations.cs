@@ -28,7 +28,7 @@ namespace Kotoba_Project
 
         public string[] languagueMenuOptions =
         {
-            "\n 1. English \n 2. Spansih \n 3. Japanese \n 4. Swedish",
+            "\n 1. English \n 2. Spanish \n 3. Japanese \n 4. Swedish",
             "\n 1. Inglés \n 2. Español \n 3. Japonés \n 4. Sueco",
             "\n 1. 英語 \n 2. スペイン語 \n 3. 日本語 \n 4. スウェーデン語",
             "\n 1. Engelska \n 2. Spanska \n 3. Japanska \n 4. Svenska"
@@ -183,10 +183,10 @@ namespace Kotoba_Project
 
         public string[] dictionaryModes4 =
         {
-            "4. Grammar dictionary (Coming soon!)",
-            "4. Diccionario de gramatica (Pronto!)",
-            "4. 文法の辞書 (近刊！)",
-            "4. Grammatik ordbok"
+            "4. Grammar dictionary (Beta)",
+            "4. Diccionario de gramatica (Beta)",
+            "4. 文法の辞書 (ベータ版)",
+            "4. Grammatik ordbok (Beta)"
         };
 
         public string[] dictionaryModes5 =
@@ -309,6 +309,186 @@ namespace Kotoba_Project
             "No quedan palabras disponibles. ¡Has completado este mazo!",
             "言葉は残されていない、このデッキを揃えた！",
             "Det finns inget ord kvart, du slutade den här decken!"
+        };
+
+        public string[] grammarDictTitleMessage =
+        {
+            "-- Select the grammar dictionary mode you want to use --",
+            "-- Elige el modo de diccionario de gramática que quieres usar --",
+            "-- 文法の辞書のモードを選んでください --",
+            "-- Välja grammatikslexinlägen du vill använda --"
+        };
+
+        public string[] grammarDictMode1 =
+        {
+            "1. Genki I Grammar",
+            "1. Gramática de Genki I",
+            "1. げんきIの文法",
+            "1. Grammatik från Genki I"
+        };
+
+        
+
+        // ------------------ Genki 1 Grammar Translations -----------------------
+        public string[] genki1ModeTitleMessage =
+        {
+            "-- Select what grammar you want to see --",
+            "-- Elige que gramática quieres ver --",
+            "-- どの文法を見たい --",
+            "-- Vilken grammatik vill du se --"
+        };
+
+        public string[] genki1Chapter1 =
+        {
+            "* Lesson 1",
+            "* Lección 1",
+            "* 第1課",
+            "* Lektion 1"
+        };
+
+        public string[] genki1Chapter1point1 =
+        {
+            "1. 1-1 (XはYです)",
+            "1. 1-1 (XはYです)",
+            "1. 1-1 (XはYです)",
+            "1. 1-1 (XはYです)"
+        };
+        public string[] genki1Chapter1point2 =
+        {
+            "2. 1-2 (Question Sentences)",
+            "2. 1-2 (Oraciónes Interrogativas)",
+            "2. 1-2 (疑問文)",
+            "2. 1-2 (Frågesats)"
+        };
+        public string[] genki1Chapter1point3 =
+        {
+            "3. 1-3 (Noun1のNoun2)",
+            "3. 1-3 (Sustantivo1のSustantivo2)",
+            "3. 1-3 (所有接辞)",
+            "3. 1-3 (Possessiv)"
+        };
+
+        public string[] genki1Chapter2 =
+        {
+            "* Lesson 2",
+            "* Lección 2",
+            "* 第2課",
+            "* Lektion 2"
+        };
+
+        public string[] genki1Chapter2point1 =
+        {
+            "4. 2-1 (これ / それ / あれ / どれ)",
+            "4. 2-1 (これ / それ / あれ / どれ)",
+            "4. 2-1 (これ / それ / あれ / どれ)",
+            "4. 2-1 (これ / それ / あれ / どれ)"
+        };
+        public string[] genki1Chapter2point2 =
+        {
+            "5. 2-2 (この / その / あの /　どの + Noun)",
+            "5. 2-2 (この / その / あの /　どの + Sustantivo)",
+            "5. 2-2 (この / その / あの /　どの + 名詞)",
+            "5. 2-2 (この / その / あの /　どの + Substantiv)"
+        };
+        public string[] genki1Chapter2point3 =
+        {
+            "6. 2-3 (ここ / そこ / あそこ / どこ)",
+            "6. 2-3 (ここ / そこ / あそこ / どこ)",
+            "6. 2-3 (ここ / そこ / あそこ / どこ)",
+            "6. 2-3 (ここ / そこ / あそこ / どこ)"
+        };
+        public string[] genki1Chapter2point4 =
+        {
+            "7. 2-4 (だれの + Noun)",
+            "7. 2-4 (だれの + Sustantivo)",
+            "7. 2-4 (だれの + 名詞)",
+            "7. 2-4 (だれの + Substantiv)"
+        };
+        public string[] genki1Chapter2point5 =
+        {
+            "8. 2-5 (Nounも)",
+            "8. 2-5 (Sustantivo + も)",
+            "8. 2-5 (名詞 + も)",
+            "8. 2-5 (Substantiv + も)"
+        };
+        public string[] genki1Chapter2point6 =
+        {
+            "9. 2-6 (Nounじゃない)",
+            "9. 2-6 (Sustantivoじゃない)",
+            "9. 2-6 (名詞 + じゃない)",
+            "9. 2-6 (Substantivじゃない)"
+        };
+        public string[] genki1Chapter2point7 =
+        {
+            "10. 2-7 (～ね / ～よ)",
+            "10. 2-7 (～ね / ～よ)",
+            "10. 2-7 (～ね / ～よ)",
+            "10. 2-7 (～ね / ～よ)"
+        };
+
+        public string[] genki1Chapter3 =
+        {
+            "* Lesson 3",
+            "* Lección 3",
+            "* 第3課",
+            "* Lektion 3"
+        };
+
+        public string[] genki1Chapter3point1 =
+        {
+            "11. 3-1 (Verb Conjugation)",
+            "11. 3-1 (Conjugaciones de los Verbos)",
+            "11. 3-1 (四段活用)",
+            "11. 3-1 (Konjugationer av verb)"
+        };
+        public string[] genki1Chapter3point2 =
+        {
+            "12. 3-2 (Verb Types and the 'Present Form')",
+            "12. 3-2 (Formas del verbo y la 'Forma Presente')",
+            "12. 3-2 (動詞の種類と「現在形」)",
+            "12. 3-2 (Verb sorter och 'nutiden')"
+        };
+        public string[] genki1Chapter3point3 =
+        {
+            "13. 3-3 (Particles)",
+            "13. 3-3 (Particulas)",
+            "13. 3-3 (てにをは)",
+            "13. 3-3 (Partiklar)"
+        };
+        public string[] genki1Chapter3point4 =
+        {
+            "14. 3-4 (Time References)",
+            "14. 3-4 (Referencias al Tiempo)",
+            "14. 3-4 (時間の参考)",
+            "14. 3-4 (Tid referens)"
+        };
+        public string[] genki1Chapter3point5 =
+        {
+            "15. 3-5 (～ませんか)",
+            "15. 3-5 (～ませんか)",
+            "15. 3-5 (～ませんか)",
+            "15. 3-5 (～ませんか)"
+        };
+        public string[] genki1Chapter3point6 =
+        {
+            "16. 3-6 (Frequency Adverbs)",
+            "16. 3-6 (Adverbios de frecuencia)",
+            "16. 3-6 (度数の副詞)",
+            "16. 3-6 (Adverb av frekvens)"
+        };
+        public string[] genki1Chapter3point7 =
+        {
+            "17. 3-7 (Word Order)",
+            "17. 3-7 (Orden de las Palabras)",
+            "17. 3-7 (語順)",
+            "17. 3-7 (Ordordning)"
+        };
+        public string[] genki1Chapter3point8 =
+        {
+            "18. 3-8 (The Topic Marker は)",
+            "18. 3-8 (El Marcador de Tema は)",
+            "18. 3-8 (トピックマーカー「は」)",
+            "18. 3-8 (Ämnemarkerare は)"
         };
     }
 }

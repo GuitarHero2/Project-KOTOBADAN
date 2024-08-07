@@ -21,9 +21,11 @@ namespace Kotoba_Project
             MenuTranslations MT = new MenuTranslations();
             MinigameScript quizGame = new MinigameScript();
             HiraganaDictionary hiraganaDict = new HiraganaDictionary();
+            Genki1 genki1 = new Genki1();
 
             bool programIsOn = true;
             string searchBar;
+            string dictModeSelector;
 
             while (programIsOn)
             {
@@ -141,6 +143,65 @@ namespace Kotoba_Project
                             Console.ReadKey();
                         }
                     }
+                    else if (keyPressed.Key == ConsoleKey.D4)
+                    {
+                        Console.Clear();
+                        Console.WriteLine(MT.grammarDictTitleMessage[MT.languageVariable] + "\n \n" + MT.grammarDictMode1[MT.languageVariable]);
+                        keyPressed = Console.ReadKey();
+
+                        if (keyPressed.Key == ConsoleKey.D1)
+                        {
+                            Console.Clear();
+                            Console.WriteLine(MT.genki1ModeTitleMessage[MT.languageVariable] + "\n \n" + 
+                                MT.genki1Chapter1[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter1point1[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter1point2[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter1point3[MT.languageVariable] + "\n" + 
+                                MT.genki1Chapter2[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point1[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point2[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point3[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point4[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point5[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point6[MT.languageVariable] + "\n " + 
+                                MT.genki1Chapter2point7[MT.languageVariable] + "\n" +
+                                MT.genki1Chapter3[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point1[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point2[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point3[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point4[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point5[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point6[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point7[MT.languageVariable] + "\n " +
+                                MT.genki1Chapter3point8[MT.languageVariable] + "\n ");
+                            dictModeSelector = Console.ReadLine();
+
+                            if (dictModeSelector.ToLower() == "1")
+                            {
+                                Console.Clear();
+                                if (MT.languageVariable == 1 || MT.languageVariable == 2 || MT.languageVariable == 4)
+                                {
+                                    Console.WriteLine(genki1.topicTitle[MT.languageVariable] + genki1.chapter1name[MT.languageVariable] + "\n");
+                                }
+                                else if (MT.languageVariable == 3)
+                                {
+                                    Console.WriteLine("「" + genki1.chapter1name[MT.languageVariable] + "」" + genki1.topicTitle[MT.languageVariable] + "\n");
+                                }
+                                Console.WriteLine(genki1.chapter1Definition1[MT.languageVariable]);
+                                Console.ReadKey();
+                            }
+
+                            else if (dictModeSelector.ToLower() == null)
+                            {
+                                
+                            }
+                            else
+                            {
+
+                            }
+                        }
+
+                    }
                 }
                 else if (keyPressed.Key == ConsoleKey.D3)
                 {
@@ -209,7 +270,7 @@ namespace Kotoba_Project
                 else if (keyPressed.Key == ConsoleKey.D4)
                 {
                     Console.Clear();
-                    Console.WriteLine(MT.versionInfo[MT.languageVariable] + "Alpha 0.0.0.1");
+                    Console.WriteLine(MT.versionInfo[MT.languageVariable] + "Alpha 0.0.0.2");
                     Console.WriteLine(MT.currentAmountofPointsInfo[MT.languageVariable] + quizGame.currentAmountOfPoints);
                     Console.WriteLine("\n \n \n" + "This program has been coded by Nozomi Kobayashi");
                     Console.ReadKey();
