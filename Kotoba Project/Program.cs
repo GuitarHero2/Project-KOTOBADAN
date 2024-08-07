@@ -427,6 +427,7 @@ namespace Kotoba_Project
                             {
                                 if (!dictErrorMessage)
                                 {
+                                    Console.Clear();
                                     try
                                     {
                                         line = G1G1.ReadLine();
