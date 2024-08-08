@@ -30,12 +30,18 @@ namespace Kotoba_Project
             string line;
             string pathForMainFolder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "KOTOBADAN");
             string pathForGenki1Folder = Path.Combine(pathForMainFolder, "Genki 1");
+            string pathForGenki2Folder = Path.Combine(pathForMainFolder, "Genki 2");
             bool dictErrorMessage = false;
 
             // Crear la carpeta principal y la subcarpeta "Genki 1" si no existen
             if (!Directory.Exists(pathForGenki1Folder))
             {
                 Directory.CreateDirectory(pathForGenki1Folder);
+            }
+
+            if (!Directory.Exists(pathForGenki2Folder))
+            {
+                Directory.CreateDirectory(pathForGenki2Folder);
             }
 
             // Crear el archivo "Genki1Dict.txt" dentro de "Genki 1" si no existe
@@ -184,36 +190,21 @@ namespace Kotoba_Project
                 }
             }
 
-            //---------------------------------------------------------------- GENKI 1 ---------------------------------------------
+            //-------------------------------- GENKI 1 ERROR LIST -------------------------------------------
             StreamReader genki1Grammar = new StreamReader(genki1DictBlank);
             StreamReader genki1ErrorEN = new StreamReader(genki1DictErrorEN);
             StreamReader genki1ErrorES = new StreamReader(genki1DictErrorES);
             StreamReader genki1ErrorJP = new StreamReader(genki1DictErrorJP);
             StreamReader genki1ErrorSW = new StreamReader(genki1DictErrorSW);
-            StreamReader G1G1 = new StreamReader(genki1Grammar1);
-            StreamReader G1G2 = new StreamReader(genki1Grammar2);
-            StreamReader G1G3 = new StreamReader(genki1Grammar3);
-            StreamReader G1G4 = new StreamReader(genki1Grammar4);
-            StreamReader G1G5 = new StreamReader(genki1Grammar5);
-            StreamReader G1G6 = new StreamReader(genki1Grammar6);
-            StreamReader G1G7 = new StreamReader(genki1Grammar7);
-            StreamReader G1G8 = new StreamReader(genki1Grammar8);
-            StreamReader G1G9 = new StreamReader(genki1Grammar9);
-            StreamReader G1G10 = new StreamReader(genki1Grammar10);
-            StreamReader G1G11 = new StreamReader(genki1Grammar11);
-            StreamReader G1G12 = new StreamReader(genki1Grammar12);
-            StreamReader G1G13 = new StreamReader(genki1Grammar13);
-            StreamReader G1G14 = new StreamReader(genki1Grammar14);
-            StreamReader G1G15 = new StreamReader(genki1Grammar15);
-            StreamReader G1G16 = new StreamReader(genki1Grammar16);
-            StreamReader G1G17 = new StreamReader(genki1Grammar17);
-            StreamReader G1G18 = new StreamReader(genki1Grammar18);
 
-            //-----------------------------------------------------------------------------------------------------------------------
+            //-----------------------------------------------------------------------------------------------
             while (programIsOn)
             {
                 Console.Clear();
-                Console.WriteLine(MT.welcomeMessage[MT.languageVariable] + MT.mainMenuSelection[MT.languageVariable]);
+                Console.ForegroundColor = ConsoleColor.DarkRed;
+                Console.Write(MT.welcomeMessage[MT.languageVariable]);
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.Write(MT.mainMenuSelection[MT.languageVariable]);
                 ConsoleKeyInfo keyPressed = Console.ReadKey();
 
                 if (keyPressed.Key == ConsoleKey.D1)
@@ -423,23 +414,27 @@ namespace Kotoba_Project
                                 MT.genki1Chapter3point8[MT.languageVariable] + "\n ");
                             dictModeSelector = Console.ReadLine();
 
-                            if (dictModeSelector.ToLower() == "1")
+                            // English Version
+                            if (dictModeSelector.ToLower() == "1" && MT.languageVariable == 0)
                             {
                                 if (!dictErrorMessage)
                                 {
                                     Console.Clear();
                                     try
                                     {
-                                        line = G1G1.ReadLine();
-
-                                        while (line != null)
+                                        using (StreamReader G1G1 = new StreamReader(genki1Grammar1))
                                         {
-                                            Console.WriteLine(line);
                                             line = G1G1.ReadLine();
-                                        }
 
-                                        G1G1.Close();
-                                        Console.ReadLine();
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G1.ReadLine();
+                                            }
+
+                                            G1G1.Close();
+                                            Console.ReadLine();
+                                        }
                                     }
                                     finally
                                     {
@@ -447,6 +442,474 @@ namespace Kotoba_Project
                                     }
                                 }
                             }
+                            else if (dictModeSelector.ToLower() == "2" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G2 = new StreamReader(genki1Grammar2))
+                                        {
+                                            line = G1G2.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G2.ReadLine();
+                                            }
+
+                                            G1G2.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "3" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G3 = new StreamReader(genki1Grammar3))
+                                        {
+                                            line = G1G3.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G3.ReadLine();
+                                            }
+
+                                            G1G3.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "4" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G4 = new StreamReader(genki1Grammar4))
+                                        {
+                                            line = G1G4.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G4.ReadLine();
+                                            }
+
+                                            G1G4.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "5" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G5 = new StreamReader(genki1Grammar5))
+                                        {
+                                            line = G1G5.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G5.ReadLine();
+                                            }
+
+                                            G1G5.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "6" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G6 = new StreamReader(genki1Grammar6))
+                                        {
+                                            line = G1G6.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G6.ReadLine();
+                                            }
+
+                                            G1G6.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "7" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G7 = new StreamReader(genki1Grammar7))
+                                        {
+                                            line = G1G7.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G7.ReadLine();
+                                            }
+
+                                            G1G7.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "8" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G8 = new StreamReader(genki1Grammar8))
+                                        {
+                                            line = G1G8.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G8.ReadLine();
+                                            }
+
+                                            G1G8.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "9" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G9 = new StreamReader(genki1Grammar9))
+                                        {
+                                            line = G1G9.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G9.ReadLine();
+                                            }
+
+                                            G1G9.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "10" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G10 = new StreamReader(genki1Grammar10))
+                                        {
+                                            line = G1G10.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G10.ReadLine();
+                                            }
+
+                                            G1G10.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "11" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G11 = new StreamReader(genki1Grammar11))
+                                        {
+                                            line = G1G11.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G11.ReadLine();
+                                            }
+
+                                            G1G11.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "12" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G12 = new StreamReader(genki1Grammar12))
+                                        {
+                                            line = G1G12.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G12.ReadLine();
+                                            }
+
+                                            G1G12.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "13" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G13 = new StreamReader(genki1Grammar13))
+                                        {
+                                            line = G1G13.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G13.ReadLine();
+                                            }
+
+                                            G1G13.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "14" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G14 = new StreamReader(genki1Grammar14))
+                                        {
+                                            line = G1G14.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G14.ReadLine();
+                                            }
+
+                                            G1G14.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "15" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G15 = new StreamReader(genki1Grammar10))
+                                        {
+                                            line = G1G15.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G15.ReadLine();
+                                            }
+
+                                            G1G15.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "16" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G16 = new StreamReader(genki1Grammar10))
+                                        {
+                                            line = G1G16.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G16.ReadLine();
+                                            }
+
+                                            G1G16.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "17" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G17 = new StreamReader(genki1Grammar17))
+                                        {
+                                            line = G1G17.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G17.ReadLine();
+                                            }
+
+                                            G1G17.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+                            else if (dictModeSelector.ToLower() == "18" && MT.languageVariable == 0)
+                            {
+                                if (!dictErrorMessage)
+                                {
+                                    Console.Clear();
+                                    try
+                                    {
+                                        using (StreamReader G1G18 = new StreamReader(genki1Grammar18))
+                                        {
+                                            line = G1G18.ReadLine();
+
+                                            while (line != null)
+                                            {
+                                                Console.WriteLine(line);
+                                                line = G1G18.ReadLine();
+                                            }
+
+                                            G1G18.Close();
+                                            Console.ReadLine();
+                                        }
+                                    }
+                                    finally
+                                    {
+
+                                    }
+                                }
+                            }
+
+                            // Spanish Version
+
+
+                            // Japanese Version
+
+
+                            // Swedish Version
+
 
                             else if (dictModeSelector.ToLower() == null)
                             {
@@ -527,12 +990,18 @@ namespace Kotoba_Project
                 else if (keyPressed.Key == ConsoleKey.D4)
                 {
                     Console.Clear();
+                    Console.WriteLine("YouTube Link");
+                    Console.ReadKey();
+                }
+                else if (keyPressed.Key == ConsoleKey.D5)
+                {
+                    Console.Clear();
                     Console.WriteLine(MT.versionInfo[MT.languageVariable] + "Alpha 0.0.0.2");
                     Console.WriteLine(MT.currentAmountofPointsInfo[MT.languageVariable] + quizGame.currentAmountOfPoints);
                     Console.WriteLine("\n \n \n" + "This program has been coded by Nozomi Kobayashi");
                     Console.ReadKey();
                 }
-                else if (keyPressed.Key == ConsoleKey.D5)
+                else if (keyPressed.Key == ConsoleKey.D6)
                 {
                     programIsOn = false;
                 }

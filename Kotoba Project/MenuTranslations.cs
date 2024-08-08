@@ -45,10 +45,10 @@ namespace Kotoba_Project
 
         public string[] mainMenuSelection =
         {
-            "\n 1. Start \n 2. Dictionary \n 3. Settings \n 4. Credits and Info \n 5. Exit",
-            "\n 1. Empezar \n 2. Diccionario \n 3. Configuración \n 4. Creditos e Información \n 5. Salir",
-            "\n 1. スタート \n 2. 辞書 \n 3. 設定 \n 4. 与信とインフォ \n 5. 出口する",
-            "\n 1. Börja \n 2. Lexikon \n 3. Inställningar \n 4. Eftertext och Info \n 5. Stäng"
+            "\n 1. Start \n 2. Dictionary \n 3. Settings \n 4. External Resources \n 5. Credits and Info \n 6. Exit",
+            "\n 1. Empezar \n 2. Diccionario \n 3. Configuración \n 4. Recursos Externos \n 5. Creditos e Información \n 6. Salir",
+            "\n 1. スタート \n 2. 辞書 \n 3. 設定 \n 4. 外部リソース \n 5. 与信とインフォ \n 6. 出口する",
+            "\n 1. Börja \n 2. Lexikon \n 3. Inställningar \n 4. Externa medel \n 5. Eftertext och Info \n 6. Stäng"
         };
 
         public string[] levelSelectorMessage =
@@ -116,7 +116,7 @@ namespace Kotoba_Project
             "-- Även när vi gick till andra livet, kunde vi inte hitta svaret~... \n Det finns ingen definition för: "
         };
 
-        public string[] dictionaryExtendedSearchMessage =
+        public string[] dictionaryExtendedSearchMessage = // <------ LEGACY?
         {
             "Do you want to do an extended search? (Y)",
             "Quieres hacer una busqueda extendida? (Y)",
@@ -321,10 +321,18 @@ namespace Kotoba_Project
 
         public string[] grammarDictMode1 =
         {
-            "1. Genki I Grammar",
-            "1. Gramática de Genki I",
-            "1. げんきIの文法",
-            "1. Grammatik från Genki I"
+            "1. Genki I Grammar (BETA)",
+            "1. Gramática de Genki I (BETA)",
+            "1. げんきIの文法 (ベータ版)",
+            "1. Grammatik från Genki I (BETA)"
+        };
+
+        public string[] grammarDictMode2 =
+        {
+            "2. Genki II Grammar (NOT AVAILABLE)",
+            "2. Gramática de Genki II (NO DISPONIBLE)",
+            "2. げんきIIの文法 (無効)",
+            "2. Grammatik från Genki II (Inte tillgänglig)"
         };
 
         
