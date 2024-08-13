@@ -49,25 +49,31 @@ namespace Kotoba_Project
             string genki1DictErrorES = Path.Combine(pathForGenki1Folder, "Genki1ErrorES.txt");
             string genki1DictErrorJP = Path.Combine(pathForGenki1Folder, "Genki1ErrorJP.txt");
             string genki1DictErrorSW = Path.Combine(pathForGenki1Folder, "Genki1ErrorSW.txt");
-            string genki1DictBlank = Path.Combine(pathForGenki1Folder, "Genki1DictBlank.txt");
-            string genki1Grammar1 = Path.Combine(pathForGenki1Folder, "Genki1Grammar1.txt");
-            string genki1Grammar2 = Path.Combine(pathForGenki1Folder, "Genki1Grammar2.txt");
-            string genki1Grammar3 = Path.Combine(pathForGenki1Folder, "Genki1Grammar3.txt");
-            string genki1Grammar4 = Path.Combine(pathForGenki1Folder, "Genki1Grammar4.txt");
-            string genki1Grammar5 = Path.Combine(pathForGenki1Folder, "Genki1Grammar5.txt");
-            string genki1Grammar6 = Path.Combine(pathForGenki1Folder, "Genki1Grammar6.txt");
-            string genki1Grammar7 = Path.Combine(pathForGenki1Folder, "Genki1Grammar7.txt");
-            string genki1Grammar8 = Path.Combine(pathForGenki1Folder, "Genki1Grammar8.txt");
-            string genki1Grammar9 = Path.Combine(pathForGenki1Folder, "Genki1Grammar9.txt");
-            string genki1Grammar10 = Path.Combine(pathForGenki1Folder, "Genki1Grammar10.txt");
-            string genki1Grammar11 = Path.Combine(pathForGenki1Folder, "Genki1Grammar11.txt");
-            string genki1Grammar12 = Path.Combine(pathForGenki1Folder, "Genki1Grammar12.txt");
-            string genki1Grammar13 = Path.Combine(pathForGenki1Folder, "Genki1Grammar13.txt");
-            string genki1Grammar14 = Path.Combine(pathForGenki1Folder, "Genki1Grammar14.txt");
-            string genki1Grammar15 = Path.Combine(pathForGenki1Folder, "Genki1Grammar15.txt");
-            string genki1Grammar16 = Path.Combine(pathForGenki1Folder, "Genki1Grammar16.txt");
-            string genki1Grammar17 = Path.Combine(pathForGenki1Folder, "Genki1Grammar17.txt");
-            string genki1Grammar18 = Path.Combine(pathForGenki1Folder, "Genki1Grammar18.txt");
+            string genki1GrammarEN = Path.Combine(pathForGenki1Folder, "Genki1GrammarEN.txt");
+            string genki1GrammarES = Path.Combine(pathForGenki1Folder, "Genki1GrammarES.txt");
+            string genki1GrammarJP = Path.Combine(pathForGenki1Folder, "Genki1GrammarJP.txt");
+            string genki1GrammarSW = Path.Combine(pathForGenki1Folder, "Genki1GrammarSW.txt");
+
+            int startLineG1G1 = 0, endLineG1G1 = 3; // Random Values that have to be modified later.
+            int startLineG1G2 = 4, endLineG1G2 = 7;
+            int startLineG1G3 = 8, endLineG1G3 = 11;
+            int startLineG1G4 = 12, endLineG1G4 = 15;
+            int startLineG1G5 = 16, endLineG1G5 = 17;
+            int startLineG1G6 = 18, endLineG1G6 = 19;
+            int startLineG1G7 = 20, endLineG1G7 = 21;
+            int startLineG1G8 = 22, endLineG1G8 = 23;
+            int startLineG1G9 = 24, endLineG1G9 = 25;
+            int startLineG1G10 = 26, endLineG1G10 = 27;
+            int startLineG1G11 = 28, endLineG1G11 = 29;
+            int startLineG1G12 = 30, endLineG1G12 = 31;
+            int startLineG1G13 = 32, endLineG1G13 = 33;
+            int startLineG1G14 = 34, endLineG1G14 = 35;
+            int startLineG1G15 = 36, endLineG1G15 = 37;
+            int startLineG1G16 = 38, endLineG1G16 = 39;
+            int startLineG1G17 = 40, endLineG1G17 = 41;
+            int startLineG1G18 = 42, endLineG1G18 = 43;
+            
+
             if (!File.Exists(genki1DictErrorEN))
             {
                 using (StreamWriter sw = File.CreateText(genki1DictErrorEN))
@@ -81,6 +87,7 @@ namespace Kotoba_Project
             "\n" +
             "\n Notes: If you don't see this after doing the proccess and there is no text when selecting a grammar in the list" +
             "\n        Check the content of the TXT files.");
+                    dictErrorMessage = true;
                 }
                 using (StreamWriter sw = File.CreateText(genki1DictErrorES))
                 {
@@ -110,93 +117,31 @@ namespace Kotoba_Project
             "\n Notes: Om ni inte ser det här meddelande efter du gör processen och det inte finns något text när du väljer en grammatik från listan" +
             "\n        Bekräft filersinnehåll.");
                 }
-                using (StreamWriter sw = File.CreateText(genki1DictBlank))
+
+                using (StreamWriter sw = File.CreateText(genki1GrammarEN))
                 {
-                    dictErrorMessage = true;
+                    sw.WriteLine();
+                }
+                using (StreamWriter sw = File.CreateText(genki1GrammarES))
+                {
+                    sw.WriteLine();
+                }
+                using (StreamWriter sw = File.CreateText(genki1GrammarJP))
+                {
+                    sw.WriteLine();
+                }
+                using (StreamWriter sw = File.CreateText(genki1GrammarSW))
+                {
                     sw.WriteLine();
                 }
 
-                using (StreamWriter sw = File.CreateText(genki1Grammar1))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar2))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar3))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar4))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar5))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar6))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar7))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar8))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar9))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar10))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar11))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar12))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar13))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar14))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar15))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar16))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar17))
-                {
-                    sw.WriteLine();
-                }
-                using (StreamWriter sw = File.CreateText(genki1Grammar18))
-                {
-                    sw.WriteLine();
-                }
             }
 
             //-------------------------------- GENKI 1 ERROR LIST -------------------------------------------
-            StreamReader genki1Grammar = new StreamReader(genki1DictBlank);
             StreamReader genki1ErrorEN = new StreamReader(genki1DictErrorEN);
             StreamReader genki1ErrorES = new StreamReader(genki1DictErrorES);
             StreamReader genki1ErrorJP = new StreamReader(genki1DictErrorJP);
             StreamReader genki1ErrorSW = new StreamReader(genki1DictErrorSW);
-
             //-----------------------------------------------------------------------------------------------
             while (programIsOn)
             {
@@ -415,25 +360,32 @@ namespace Kotoba_Project
                             dictModeSelector = Console.ReadLine();
 
                             // English Version
-                            if (dictModeSelector.ToLower() == "1" && MT.languageVariable == 0)
+
+                            if(dictModeSelector.ToLower() == "1" && MT.languageVariable == 0)
                             {
                                 if (!dictErrorMessage)
                                 {
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G1 = new StreamReader(genki1Grammar1))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G1.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G1.ReadLine();
-                                            }
+                                                currentLine++;
 
-                                            G1G1.Close();
-                                            Console.ReadLine();
+                                                if (currentLine > startLineG1G1 && currentLine <= endLineG1G1)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G1)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
+                                            }
                                         }
                                     }
                                     finally
@@ -449,18 +401,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G2 = new StreamReader(genki1Grammar2))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G2.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G2.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G2 && currentLine <= endLineG1G2 && currentLine >= startLineG1G2)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G2)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G2.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -476,18 +433,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G3 = new StreamReader(genki1Grammar3))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G3.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G3.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G3 && currentLine <= endLineG1G3 && currentLine >= startLineG1G3)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G3)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G3.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -503,18 +465,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G4 = new StreamReader(genki1Grammar4))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G4.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G4.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G4 && currentLine <= endLineG1G4 && currentLine >= startLineG1G4)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G4)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G4.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -530,18 +497,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G5 = new StreamReader(genki1Grammar5))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G5.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G5.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G5 && currentLine <= endLineG1G5 && currentLine >= startLineG1G5)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G5)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G5.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -557,18 +529,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G6 = new StreamReader(genki1Grammar6))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G6.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G6.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G6 && currentLine <= endLineG1G6 && currentLine >= startLineG1G6)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G6)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G6.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -584,18 +561,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G7 = new StreamReader(genki1Grammar7))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G7.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G7.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G7 && currentLine <= endLineG1G7 && currentLine >= startLineG1G7)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G7)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G7.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -611,18 +593,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G8 = new StreamReader(genki1Grammar8))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G8.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G8.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G8 && currentLine <= endLineG1G8 && currentLine >= startLineG1G8)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G8)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G8.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -638,18 +625,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G9 = new StreamReader(genki1Grammar9))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G9.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G9.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G9 && currentLine <= endLineG1G9 && currentLine >= startLineG1G9)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G9)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G9.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -665,18 +657,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G10 = new StreamReader(genki1Grammar10))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G10.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G10.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G10 && currentLine <= endLineG1G10 && currentLine >= startLineG1G10)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G10)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G10.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -692,18 +689,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G11 = new StreamReader(genki1Grammar11))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G11.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G11.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G11 && currentLine <= endLineG1G11 && currentLine >= startLineG1G11)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G11)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G11.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -719,18 +721,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G12 = new StreamReader(genki1Grammar12))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G12.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G12.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G12 && currentLine <= endLineG1G12 && currentLine >= startLineG1G12)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G12)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G12.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -746,18 +753,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G13 = new StreamReader(genki1Grammar13))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G13.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G13.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G13 && currentLine <= endLineG1G13 && currentLine >= startLineG1G13)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G13)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G13.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -773,18 +785,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G14 = new StreamReader(genki1Grammar14))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G14.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G14.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G14 && currentLine <= endLineG1G14 && currentLine >= startLineG1G14)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G14)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G14.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -800,18 +817,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G15 = new StreamReader(genki1Grammar10))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G15.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G15.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G15 && currentLine <= endLineG1G15 && currentLine >= startLineG1G15)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G15)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G15.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -827,18 +849,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G16 = new StreamReader(genki1Grammar10))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G16.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G16.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G16 && currentLine <= endLineG1G16 && currentLine >= startLineG1G16)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G16)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G16.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -854,18 +881,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G17 = new StreamReader(genki1Grammar17))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G17.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G17.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G17 && currentLine <= endLineG1G17 && currentLine >= startLineG1G17)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G17)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G17.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
@@ -881,18 +913,23 @@ namespace Kotoba_Project
                                     Console.Clear();
                                     try
                                     {
-                                        using (StreamReader G1G18 = new StreamReader(genki1Grammar18))
+                                        using (StreamReader G1G1 = new StreamReader(genki1GrammarEN))
                                         {
-                                            line = G1G18.ReadLine();
+                                            int currentLine = 0;
 
-                                            while (line != null)
+                                            while ((line = G1G1.ReadLine()) != null)
                                             {
-                                                Console.WriteLine(line);
-                                                line = G1G18.ReadLine();
+                                                currentLine++;
+                                                if (currentLine > startLineG1G18 && currentLine <= endLineG1G18 && currentLine >= startLineG1G18)
+                                                {
+                                                    Console.WriteLine(line);
+                                                }
+                                                else if (currentLine > endLineG1G18)
+                                                {
+                                                    Console.ReadKey();
+                                                    break;
+                                                }
                                             }
-
-                                            G1G18.Close();
-                                            Console.ReadLine();
                                         }
                                     }
                                     finally
