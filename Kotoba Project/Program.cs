@@ -1033,7 +1033,7 @@ namespace Kotoba_Project
                 else if (keyPressed.Key == ConsoleKey.D5)
                 {
                     Console.Clear();
-                    Console.WriteLine(MT.versionInfo[MT.languageVariable] + "Alpha 0.0.0.2");
+                    Console.WriteLine(MT.versionInfo[MT.languageVariable] + "Alpha 0.0.0.3");
                     Console.WriteLine(MT.currentAmountofPointsInfo[MT.languageVariable] + quizGame.currentAmountOfPoints);
                     Console.WriteLine("\n \n \n" + "This program has been coded by Nozomi Kobayashi");
                     Console.ReadKey();
