@@ -1,4 +1,4 @@
-#  - KOTOBADAN Project / 言葉暖 Project -
+#  KOTOBADAN Project / 言葉暖 Project
 
 ### This project is meant to help others to make their way easier through the Japanese language, as a multi-tool app available in both TUI version (Terminal User Interface App) and GUI version (Graphic User Interface App).
 
