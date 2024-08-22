@@ -25,7 +25,7 @@
 * Dictionaries for both grammar and words.
 * Support for varios languages (For now, I will stick with English, Spanish, Swedish and Japanese)
 * Content recommendation to (try to) boost your language journey.
-* Lyrics for songs (This one is attached to change)
+* Lyrics for songs (This feature is attached to change)
 
 
 # Feedback and Questions
