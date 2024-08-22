@@ -1,6 +1,6 @@
 #  KOTOBADAN Project / 言葉暖 Project
 
-### This project is meant to help others to make their way easier through the Japanese language, as a multi-tool app available in both TUI version (Terminal User Interface App) and GUI version (Graphic User Interface App).
+### This project is meant to help others to make their way easier through the Japanese language, as a multi-tool app available in both TUI version (Terminal User Interface App) and GUI version (Graphic User Interface App) inspired in the Discord bot KOTOBA.
 
 > [!NOTE]
 > Take in consideration that this project is still under development and haven't still been released. Don't try to download this program from any other sources other than this Github.
@@ -16,6 +16,16 @@
 # GUI Version (Graphical User Interface)
 
 ### This version will be developed under Unity and it is meant to me more intensive than its TUI counterpart. To download this version, please refer to this [Github Link](https://github.com/GuitarHero2/Project-KOTOBADAN-GUI)
+
+# What tools does the program have?
+
+### I intent to add the following tools:
+
+* Quiz Game (Kinda what the discord bot KOTOBA does)
+* Dictionaries for both grammar and words.
+* Support for varios languages (For now, I will stick with English, Spanish, Swedish and Japanese)
+* Content recommendation to (try to) boost your language journey.
+* Lyrics for songs (This one is attached to change)
 
 
 # Feedback and Questions
