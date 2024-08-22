@@ -15,7 +15,7 @@
 
 # GUI Version (Graphical User Interface)
 
-### This version will be developed under Unity and it is meant to me more intensive than its TUI counterpart.
+### This version will be developed under Unity and it is meant to me more intensive than its TUI counterpart. To download this version, please refer to this [Github Link](https://github.com/GuitarHero2/Project-KOTOBADAN-GUI)
 
 
 # Feedback and Questions
